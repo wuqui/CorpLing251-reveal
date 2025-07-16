@@ -1,0 +1,3 @@
+- https://www.ediana.gwi.uni-muenchen.de/
+- project by [[ITG]]
+- Digital Philological-Etymological [Dictionary]([[dictionary]]) of the Minor Ancient Anatolian Corpus Languages

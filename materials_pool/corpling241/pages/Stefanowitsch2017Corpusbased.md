@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Stefanowitsch, Anatol, and Susanne Flach. 2017. ‘The Corpus-Based Perspective on Entrenchment’. In *Entrenchment and the Psychology of Language Learning: How We Reorganize and Adapt Linguistic Knowledge*, edited by Hans-Jörg Schmid, 101—128. Boston, USA: American Psychology Association and de Gruyter Mouton.

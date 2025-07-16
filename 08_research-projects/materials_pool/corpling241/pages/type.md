@@ -1,0 +1,1 @@
+alias:: word type

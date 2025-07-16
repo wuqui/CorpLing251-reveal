@@ -36,9 +36,20 @@ ENV/
 *.temp
 *~
 
-# Course materials pool (contains large files and embedded repos)
-materials_pool/
-
 # Agenda and planning files
 agenda.md
-*agenda* 
+*agenda*
+
+# Course materials pool - exclude everything except pages and assets
+materials_pool/corpling241/*
+!materials_pool/corpling241/pages/
+!materials_pool/corpling241/assets/
+materials_pool/corpling241/pages/*
+!materials_pool/corpling241/pages/*.md
+materials_pool/corpling241/assets/*
+!materials_pool/corpling241/assets/*.png
+!materials_pool/corpling241/assets/*.jpg
+!materials_pool/corpling241/assets/*.jpeg
+!materials_pool/corpling241/assets/*.gif
+!materials_pool/corpling241/assets/*.pdf
+!materials_pool/corpling241/assets/*.xlsx 

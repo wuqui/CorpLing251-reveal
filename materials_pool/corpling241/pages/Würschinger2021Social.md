@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Würschinger, Quirin. 2021. ‘Social Networks of Lexical Innovation. Investigating the Social Dynamics of Diffusion of Neologisms on Twitter’. *Frontiers in Artificial Intelligence* 4: 106. [https://doi.org/10.3389/frai.2021.648583](https://doi.org/10.3389/frai.2021.648583).

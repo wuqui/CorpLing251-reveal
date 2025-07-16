@@ -1,0 +1,3 @@
+- introductory paper to the [[EC-Model]]
+- [[bibliography]]
+	- Schmid, Hans-Jörg. 2015. ‘A Blueprint of the Entrenchment-and-Conventionalization Model’. In *Yearbook of the German Cognitive Linguistics Association*, 3:1—27. Yearbook of the German Cognitive Linguistics Association.

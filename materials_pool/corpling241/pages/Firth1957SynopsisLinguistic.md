@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Firth, John R. 1957. *A Synopsis of Linguistic Theory, 1930-1955*. Studies in Linguistic Analysis. Special Volume of the Philological Society. Oxford: Basil Blackwell.

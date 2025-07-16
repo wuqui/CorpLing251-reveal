@@ -1,0 +1,4 @@
+- The distributional hypothesis, proposed by British linguist J.R. Firth ([[Firth1957SynopsisLinguistic]]), posits that words with similar [meanings]([[meaning]]) tend to occur in similar linguistic contexts. Essentially, the hypothesis suggests that a [word's meaning can be inferred from the company it keeps]([[distributional semantics]]), or the patterns of its [co-occurring words]([[collocations]]).
+  id:: 6447a7c9-0293-435b-8944-d989642d2fe4
+- This idea underpins the concept that the analysis of distributional patterns in language can reveal semantic relationships and associations between words.
+- As a foundational principle in [[Computational Linguistics]] and [[Natural Language Processing]], the distributional hypothesis has led to the development of techniques such as [word embeddings]([[word embeddings]]) and vector space models, which capture semantic similarities based on co-occurrence patterns.

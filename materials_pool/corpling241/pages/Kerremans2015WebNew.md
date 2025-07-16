@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Kerremans, Daphné. 2015. *A Web of New Words*. Bern: Peter Lang. [https://doi.org/10.3726/978-3-653-04788-2](https://doi.org/10.3726/978-3-653-04788-2).
