@@ -1,0 +1,597 @@
+---
+title: "Research Projects"
+subtitle: "Seminar 'Corpus Linguistics'"
+author: "Quirin Würschinger, LMU Munich"
+date: 2025-06-03
+date-format: long
+format:
+  clean-revealjs:
+    slide-level: 0
+    min-scale: 0.2
+    max-scale: 2.0
+    incremental: false
+bibliography: references.bib
+css: custom.css
+---
+
+# Outline
+
+::: {.notes}
+Timing overview
+
+| Segment | Time | Duration |
+| --- | --- | --- |
+| Requirements & consulting | 10:15–10:20 | 5 min |
+| Term papers overview | 10:20–10:25 | 5 min |
+| Topic / RQs / hypotheses | 10:25–10:40 | 15 min |
+| Topic Pitch activity | 10:40–10:45 | 5 min |
+| **Break** | 10:45–10:50 | 5 min |
+| References & citing | 10:50–11:00 | 10 min |
+| Paper structure & writing | 11:00–11:15 | 15 min |
+| Research areas & examples | 11:15–11:28 | 13 min |
+| Frameworks & domains | 11:28–11:40 | 12 min |
+| Wrap-up & take-home messages | 11:40–11:45 | 5 min |
+:::
+
+- Requirements & consulting
+- Term papers & research projects
+- Topics, research questions & hypotheses
+- Interactive: Topic Pitch
+- **Break (5 min)**
+- References & citing
+- Paper structure & writing tips
+- Research areas & examples
+- Wrap-up & take-home messages
+
+___
+
+# Term Paper Requirements & Consulting
+
+::: {.notes}
+10:15–10:20
+:::
+
+## Term paper submission deadlines
+
+Short papers: **29 August**
+
+Long papers: **8 September**
+
+Submit your term paper via [email](mailto:q.wuerschinger@lmu.de) by the end of the day.
+
+___
+
+## Term paper consulting
+
+### Registration
+
+Register for one of the slots beforehand via mail.
+
+### Information required before the meeting
+
+At least one day before the meeting via [email](mailto:q.wuerschinger@lmu.de).
+
+- research questions and hypotheses
+- data and method
+- (abstract)
+- table of contents
+- bibliography
+
+___
+
+### Consulting dates
+
+- 28 July
+    - 10:00
+    - 16:00
+- 8 August
+    - 10:00
+    - 13:00
+
+### Zoom meeting
+
+- <https://lmu-munich.zoom.us/j/5385530182?pwd=SE5iZDJGQlZ1V3dpN2Q4NW45WjF5Zz09>
+- Meeting ID: 538 553 0182
+- Passcode: 531379
+
+___
+
+# Term Papers & Research Projects
+
+## Goal
+
+::: {.notes}
+10:20–10:25
+:::
+
+- **Research question** with a linguistic focus (+ hypotheses)
+    - drives the whole project and tells the reader *why* the study matters
+- **Empirical study** based on observable language use
+    - collect evidence rather than rely on intuition or arm-chair examples
+- **Corpus data** as the primary evidence base
+    - pick a corpus that fits your question (size, genre, time span)
+- **Corpus-linguistic methods** for analysis
+    - e.g. frequency, collocations, distribution across speakers or texts
+
+___
+
+## What is a topic?
+
+::: {.notes}
+10:25–10:28
+:::
+
+- a more general account of what your are **interested in**
+- a **vague formulation** of your project
+- the **area and discipline** you are working in
+
+::: {.fragment}
+## What is a good topic?
+
+::: {.notes}
+10:28–10:32
+:::
+
+- is not too **general** but also not too **specific**
+- should have further **relevance** for linguistics
+- includes **new aspects** based on the **state of the art**
+- is **interesting** and **doable**
+- is based on **previous knowledge** and/or **observations**
+- allows for a number of **research questions**
+:::
+
+___
+
+## Title
+
+::: {.notes}
+10:32–10:35
+:::
+
+- is the **business card** of your paper/thesis
+- must be **informative** and **explicit**
+- must have a **reasonable link** to the content
+- must not raise **unmet expectations**
+- it's often good to use a **subtitle**
+
+___
+
+# Research Questions & Hypotheses
+
+::: {.notes}
+10:25–10:40
+:::
+
+- **How to find RQs?**
+    - from **previous literature**
+        - by coming across a suggestion for **desiderata** / unanswered questions
+        - by **replicating** someone else's work
+        - by identifying a **gap**, i.e. something that has not yet been asked
+    - from **observation**
+    - from own **empirical findings** within the study
+
+___
+
+## Key Questions
+
+::: {.notes}
+10:40–10:50
+:::
+
+- Which **topic** do I want to work on?
+    - Is it broad enough to be interesting?
+    - Is it narrow enough to be doable?
+- Which **research question** do I want to work on?
+    - Does it have a strong enough linguistic focus?
+- What are my **hypotheses**?
+    - What do I expect the outcome of my study to be?
+    - Why do I expect these results (e.g. previous studies, theoretical models)?
+- How does my research question relate to **previous work**?
+    - Where lies the contribution of my project?
+- Which **data** could I use to study my research question?
+- Which **methods** could I use to test my hypotheses?
+
+___
+
+## Interactive: Topic Pitch (Think–Pair–Share)
+
+::: {.notes}
+10:40–10:45
+
+Detailed flow:
+- 00:00–01:00 individual thinking
+- 01:00–04:00 pair exchange (90 s per speaker)
+- 04:00–05:00 plenary wrap-up
+:::
+
+- **Goal**: formulate a concise, doable topic and receive quick peer feedback
+
+- **Steps**:
+    - write one-sentence topic idea (1 min)
+    - pair up and exchange ideas (90 s each)
+    - give one suggestion or question to your partner
+    - be ready to share a highlight in plenary
+
+___
+
+## Break
+
+::: {.notes}
+10:45–10:50
+:::
+
+- 5-minute break – stretch, grab water, come back refreshed
+
+___
+
+# Finding References
+
+::: {.notes}
+10:50–11:00
+:::
+
+- **Libraries**
+    - LMU: OPAC & Databases (e.g., LLBA, MLA)
+    - BSB: OPAC
+- **Web**
+    - Google Scholar, OpenAlex, Semantic Scholar, Connected Papers
+- I cannot recommend using the **'Dark Web'**.
+    - e.g., LibGen, SciHub
+- **Research network platforms**
+    - academia.edu, ResearchGate
+- **'Schneeballprinzip' (snowballing)**
+    - Check references of relevant papers.
+- **AI-assisted services**
+    - e.g., elicit.org
+
+___
+
+## Citing References
+
+::: {.notes}
+11:00–11:03
+:::
+
+- **Style Guides**
+    - Stilblatt Anglistik LMU
+    - Chicago Author-Date Style
+    - Unified Style Sheet for Linguistics
+    - APA
+- **In-text citations**
+    - Use **author-date format**, e.g., "Here's an interesting quote." (Schmid 2020: 420)
+- **Bibliography**
+    - Must be **consistent** and follow a style guide.
+    - Must only contain sources you have **cited**.
+
+___
+
+## Managing References
+
+::: {.notes}
+11:00–11:03 (continues)
+:::
+
+- **Manually**
+    - Recommendation: maintain **one** file with all your bibliographic information.
+- **Using tools**
+    - My recommendation: [Zotero](https://www.zotero.org/)
+    - Other tools:
+        - [Citavi](https://www.citavi.com/)
+        - [EndNote](https://endnote.com/)
+        - [Mendeley](https://www.mendeley.com/)
+
+___
+
+# Structure of a Term Paper
+
+## Overview
+::: {.notes}
+11:00–11:15
+:::
+
+- Introduction
+- Theoretical Background
+- Data
+- Method
+- Results
+- Discussion
+- Conclusion
+
+___
+
+## Introduction
+
+::: {.notes}
+11:02–11:04
+:::
+
+Your introduction should:
+
+- Grab the reader's attention and introduce the **topic**.
+- Provide the necessary **context** and establish the **relevance** of the research.
+- Clearly state your **research question** and/or **hypothesis**.
+- Provide a brief **roadmap** or summary of what the paper will cover.
+
+___
+
+## Theoretical Background
+
+::: {.notes}
+11:04–11:06
+:::
+
+Your theoretical background should:
+
+- Provide a detailed **review of the existing literature**.
+- Highlight the key **theories** and **findings** of previous studies.
+- Show how previous work **relates to your own research**.
+- Clearly **define** any key terms and concepts.
+
+___
+
+## Data & Method
+
+::: {.notes}
+11:06–11:08
+:::
+
+Your data and method section should explain:
+
+- **Data**: What data you are analyzing (source, selection criteria, characteristics).
+- **Corpus**: For corpus papers, provide a detailed description of your corpus.
+- **Method**: The methods used to analyze your data.
+- **Tools**: Any specific techniques, procedures, or software you used.
+
+___
+
+## Results & Discussion
+
+::: {.notes}
+11:08–11:10
+:::
+
+- **Results**:
+    - Present your findings clearly and concisely, using **tables** or **graphs** where appropriate.
+    - Ensure your results directly address your **research question** or hypothesis.
+- **Discussion**:
+    - Interpret your results in the context of the existing **literature**.
+    - Discuss whether the results **support your hypothesis** and what their broader **implications** are.
+    - Acknowledge any **limitations** of your study and suggest areas for **future research**.
+
+___
+
+## Conclusion
+
+::: {.notes}
+11:10–11:12
+:::
+
+Your conclusion should:
+
+- Start with a strong **summary** of your key findings.
+- Reiterate the **answer** to your initial research question.
+- Discuss the broader **implications** of your work for linguistics.
+- Acknowledge any **limitations** of your study.
+- Suggest concrete avenues for **future research**.
+
+___
+
+# Style and Readability
+
+::: {.notes}
+11:12–11:15
+:::
+
+- Be **concrete** and **explain**.
+- Aim for a **neutral**, **scientific**, **academic** style.
+- Aim for **understandable**, **precise**, **clear** formulations.
+- Use **topic sentences** and **examples**.
+- Put the main thing in the **main clause**.
+- Use **active** instead of passive; use **verbs** instead of nouns.
+
+___
+
+# Tools for Writing
+
+::: {.notes}
+11:15–11:20
+:::
+
+- **Dictionaries**: [linguee](https://www.linguee.de/), [dict.cc](https://www.dict.cc/)
+- **Thesauri**: [thesaurus.com](https://www.thesaurus.com/)
+- **Collocations**: ozdic.com, netspeak.org
+- **Spelling & Grammar**
+    - [LanguageTool](https://languagetool.org/)
+    - [Grammarly](https://www.grammarly.com/)
+- **AI-based tools**
+    - [DeepLWrite](https://www.deepl.com/write)
+    - [ChatGPT](https://chat.openai.com/)
+- **Phrasebanks**
+    - [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+___
+
+# Research Areas & Topics
+
+::: {.notes}
+11:15–11:28
+:::
+
+Some broad areas you could focus on.
+
+::: {.incremental}
+- **Linguistic Variation**: How does language vary between speakers, text types, or geographical regions?
+    - **speaker variation**: e.g., tag questions across age, gender, social class
+    - **text type/register variation**: e.g., modal verb frequency in academic vs. fiction
+    - **geographical variation**: e.g., *fall* vs. *autumn*
+- **Language Change**: How does language change over time?
+    - **lexical change**: rise of neologisms such as *hangry*
+    - **semantic change**: shift in collocates, cf. *gay*
+    - **grammatical change**: diffusion of constructions along an **S-curve** (e.g. *going to* future)
+:::
+
+___
+
+## Example: Geographical Variation
+
+::: {.notes}
+11:25–11:28
+:::
+
+Frequency of *fall* vs. *autumn* by country in the NOW corpus.
+
+:::: {.columns}
+
+::::: {.column}
+
+***fall***
+
+![](att/image_1718316033126_0.png)
+
+:::::
+
+::::: {.column}
+
+***autumn***
+
+![](att/image_1718316154635_0.png)
+
+:::::
+
+::::
+
+___
+
+## Example: Language Change
+
+::: {.notes}
+11:30–11:33
+:::
+
+![](att/image_1718316357300_0.png)
+
+___
+
+## Theoretical Frameworks
+
+::: {.notes}
+11:28–11:40
+:::
+
+Your research can be grounded in various theoretical frameworks:
+
+- **Usage-based approaches**: How do patterns of language use shape grammar and meaning?
+- **S-Curve Model**: How do linguistic innovations spread through a community?
+- **Entrenchment-and-Conventionalization Model**: How do novel expressions become fixed conventions?
+- **Distributional Hypothesis**: How can we understand the meaning of a word by looking at the contexts in which it appears?
+
+___
+
+## Domains of Language
+
+### Lexis
+
+::: {.notes}
+11:36–11:39
+:::
+
+- The study of **vocabulary**, including its innovation and diffusion.
+- **Neologisms** are new words or expressions.
+- Can you think of recent examples?
+    - *staycation*, *glamping*, *hangry*, *cringe*, *social distancing*, *medfluencer*
+- These can be investigated by looking at their **frequency over time** (e.g., in the *English Trends* corpus) or their **distribution across text types** (e.g., in *enTenTen*).
+
+___
+
+### Morphology
+
+::: {.notes}
+11:39–11:41
+:::
+
+- The study of **word formation** and internal structure.
+- **Clipping** is a common word-formation process where a word is shortened.
+- For example, *brother* becomes *bro*, or *refrigerator* becomes *fridge*.
+- **Research questions** could explore:
+    - Do source words and clipped forms differ in meaning?
+    - How does their usage vary across text types or over time?
+    - A corpus-based analysis could compare their frequency, collocations, and word sketches.
+
+___
+
+### Syntax & Semantics
+
+::: {.notes}
+11:41–11:43
+:::
+
+- **Syntax**: The study of sentence structure.
+    - An example topic is the study of a specific grammatical construction, like the *the N BE that* construction (e.g., "The problem is that...").
+- **Semantics**: The study of meaning.
+    - An example topic is semantic change, where you could investigate how the meaning of a word has evolved over time by analysing its changing collocates.
+
+___
+
+# Data, Corpora & Methods
+
+::: {.notes}
+11:43–11:45
+:::
+
+- **Corpora**
+    - **Sketch Engine**: Gutenberg English 2020, EEBO, enTenTen20, English Trends
+    - **english-corpora.org**: COHA, COCA, NOW
+- **Methods**
+    - Frequency
+    - Collocations
+    - Word Sketches
+
+___
+
+# Further Reading
+
+::: {.notes}
+11:40–11:42
+:::
+
+See Stefanowitsch (2020) for further examples and case studies.
+
+- Stefanowitsch, Anatol. 2020. *Corpus linguistics: A guide to the methodology*. Language Science Press.
+
+___
+
+## Workshop: Mini Research-Design (Group)
+
+::: {.notes}
+11:47–12:10
+
+Timeline
+
+- 0–2 min form groups & pick topic
+- 2–12 min fill template
+- 12–17 min prepare 60-sec pitch slide
+- 17–25 min plenary pitches
+:::
+
+- **Group task**: draft a mini study plan for one research area and add one slide to the shared deck: <https://1drv.ms/p/c/9a2ec97d593520f9/EUu0cQtCO1pMnlyH0FZKnRMBFWa2hCajBPKjPBhkbnPZog>
+- **Template (fill on your slide)**:
+    - Research question
+    - Hypothesis (optional)
+    - Corpus / data
+    - Method(s)
+    - Expected finding(s)
+- **During plenary (last 8 min)**:
+    - each group presents their slide (≈ 60 s)
+    - audience notes one idea or question
+    - quick Q&A if time permits
+
+___
+
+## Summary
+
+- A strong **research question** is the compass of your study – keep asking *why* and *how*.
+- **Map the literature** first, then locate your own contribution.
+- Let the research question choose the **corpus**, not the other way round.
+- Plan **methods** early, keep them transparent and replicable.
+- **Write clearly**: main point in main clause, verbs over nouns.
+- Today's **pitch and design drafts** are seeds – **Keep working** towards your term paper!

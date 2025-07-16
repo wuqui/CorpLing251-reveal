@@ -1,0 +1,422 @@
+---
+title: "Syntax"
+subtitle: "Seminar 'Corpus Linguistics'"
+author: "Quirin Würschinger, LMU Munich"
+date: 2025-06-26
+format:
+  clean-revealjs:
+    slide-number: true
+    slide-level: 0
+css: custom.css
+bibliography: references.bib
+---
+
+# Session Overview
+
+**1. Theory and Research**
+
+- Theoretical framework (EC-Model)
+- Case study: *N+BE+that* construction
+- Research findings
+
+**2. Practice**
+
+- Corpus analysis with Sketch Engine
+- Hands-on exercises
+
+::: {.notes}
+10:17–10:19 Session structure overview
+:::
+
+___
+
+# The Paper: Schmid & Mantlik (2015)
+
+## Abstract
+
+<!-- Schmid, Hans-Jörg, and Annette Mantlik. 2015. 'Entrenchment in Historical Corpora? Reconstructing Dead Authors' Minds from Their Usage Profiles'. Anglia (Halle an Der Saale, Germany) 133 (4): 583—623. -->
+
+![Abstract from Schmid & Mantlik (2015, p. 583)](att/abstract_3.png)
+
+::: {.notes}
+10:19–10:21 (Section: 10:19–10:35) Present abstract and study overview
+:::
+
+___
+
+## Theoretical Framework
+
+**Entrenchment-and-Conventionalisation Model** [@Schmid2015Entrenchment; @Schmid2020Dynamics]
+
+![Entrenchment-and-Conventionalisation Model (Schmid 2020, p. 4)](att/ec-model.png){width="700"}
+
+::: {.notes}
+10:21–10:24 Introduce EC-Model, explain three key processes: usage, entrenchment, conventionalisation
+:::
+
+___
+
+## Research Question
+
+How do syntactic constructions change over time?
+
+**Case study:** The *N+BE+that* construction
+
+- *my concern is that […]*
+- *the idea was that […]*
+- *the thing is that […]*
+- *the worry is that […]*
+
+::: {.notes}
+10:24–10:27 Present research question and construction examples, ask students for more examples
+:::
+
+___
+
+## Construction Grammar Analysis
+
+![Analysis of the *N+BE+that* construction in Construction Grammar terms (Schmid & Mantlik 2015, p. 586)](att/construction-grammar.png){width="600"}
+
+::: {.notes}
+10:27–10:29 Explain Construction Grammar approach to syntactic analysis
+:::
+
+___
+
+## Data Sources
+
+![Historical corpora used in the study (p. 591)](att/data-table.png){width="700"}
+
+::: {.notes}
+10:29–10:31 Overview of historical corpus data 1250-1871
+:::
+
+___
+
+## Corpus Attestation
+
+![Examples from historical corpora (Schmid & Mantlik 2015, p. 586)](att/corpus-attestation.png){width="600"}
+
+::: {.notes}
+10:31–10:33 Show specific corpus examples and contexts
+:::
+
+___
+
+# Research Results
+
+## Diachronic Frequency
+
+![Steady increase from medieval to modern English (Schmid & Mantlik 2015, p. 601)](att/diachronic-frequency.png){width="700"}
+
+::: {.notes}
+10:33–10:35 (Section: 10:33–10:55) Discuss frequency development over time
+:::
+
+___
+
+## Text Type Distribution
+
+![Distribution across different text types (Schmid & Mantlik 2015, p. 600)](att/text-type-distribution.png){width="700"}
+
+::: {.notes}
+10:35–10:37 Explain variation across different text types
+:::
+
+___
+
+## Speaker Variation
+
+![Individual author differences (Schmid & Mantlik 2015, p. 606)](att/speaker-variation-1.png){width="700"}
+
+::: {.notes}
+10:37–10:41 (Section: 10:37–10:45) Show individual differences between authors
+:::
+
+___
+
+![Usage profiles of different authors (Schmid & Mantlik 2015, p. 607)](att/speaker-variation-2.png){width="700"}
+
+::: {.notes}
+10:41–10:45 Detailed comparison of author usage profiles
+:::
+
+___
+
+## Semantic Change
+
+![Changes in semantic preferences over time (Schmid & Mantlik 2015, p. 597)](att/semantic-change-1.png){width="700"}
+
+::: {.notes}
+10:45–10:48 (Section: 10:45–10:55) Explain semantic change over time
+:::
+
+___
+
+![Development of semantic categories (Schmid & Mantlik 2015, p. 598)](att/semantic-change-2.png){width="600"}
+
+::: {.notes}
+10:48–10:51 Development of semantic categories
+:::
+
+___
+
+![Detailed semantic analysis (Schmid & Mantlik 2015, p. 598)](att/semantic-change-3.png){width="600"}
+
+::: {.notes}
+10:51–10:54 Detailed semantic patterns
+:::
+
+___
+
+## Summary: What the Study Reveals
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Key Patterns (1250-1871):**
+
+- **Frequency** ↗️ Steady growth over 600+ years
+- **Authors** 👥 Individual cognitive differences  
+- **Meaning** 🔄 Concrete → Abstract shift
+- **Registers** 📚 Genre-specific patterns
+:::
+
+::: {.column width="50%"}
+**EC-Model Insights:**
+
+- **Usage** drives historical change
+- **Entrenchment** varies by individual
+- **Conventionalisation** creates norms
+- **Corpus data** reveals cognitive processes
+:::
+
+::::
+
+**Bottom line:** Syntactic constructions evolve through individual minds over historical time
+
+::: {.notes}
+10:54–10:57 Summary of research findings, transition to break
+:::
+
+::: {.notes}
+BREAK TIME: 10:57–11:02 (5 minutes)
+:::
+
+___
+
+# Practice: Corpus Study
+
+**Tool:** English Historical Book Collection (EEBO, ECCO, Evans) in Sketch Engine
+
+**Objective:** Replicate the syntactic construction analysis
+
+::: {.notes}
+11:02–11:05 (Section: 11:02–11:43) Introduction to practice session, explain Sketch Engine access
+:::
+
+___
+
+## Your Tasks: Overview
+
+**What you'll accomplish today:**
+
+1. **Search** for the *N+BE+that* construction using concordance tools
+2. **Analyse** absolute and relative frequencies across time periods
+3. **Export** results and create visualisations in Excel  
+4. **Use CQL** to investigate specific nouns in the construction
+5. **Compare** patterns between historical periods (1400s vs 1800s)
+6. **Interpret** findings using the EC-Model framework
+
+**Goal:** Experience the full research workflow from corpus query to theoretical interpretation
+
+::: {.notes}
+11:05–11:07 Give students overview of what they'll accomplish, emphasise complete research workflow
+:::
+
+___
+
+## Part 1: Basic Corpus Analysis
+
+**What you'll do in Steps 1–3:**
+
+1. **Search** for the *N+BE+that* construction in historical texts
+2. **Analyse** absolute and relative frequencies  
+3. **Explore** how frequency changes over time (by century and decade)
+
+**Goal:** Understand basic corpus query techniques and frequency analysis
+
+**Time:** ~15 minutes
+
+::: {.notes}
+11:05–11:07 Explain Part 1 objectives and workflow
+:::
+
+___
+
+## Step 1: Concordance Analysis
+
+![Query for the construction and get a concordance view](att/concordance-view.png){width="700"}
+
+::: {.notes}
+11:05–11:08 Demonstrate concordance search, students try it
+:::
+
+___
+
+## Step 2: Frequency Analysis
+
+![Frequency analysis results](att/frequency-analysis.png){width="600"}
+
+**Tasks:**
+
+- absolute frequency: 5,909 tokens
+- relative frequency: 5.99 occurrences per million words (pmw)
+
+::: {.notes}
+11:08–11:12 Guide students through frequency analysis, interpret results
+:::
+
+___
+
+## Step 3: Diachronic Analysis
+
+### Frequency by Century
+
+![Grouped by text type `Century`](att/frequency-by-century.png){width="600"}
+
+::: {.notes}
+11:12–11:15 Show how to group by century, students explore patterns
+:::
+
+___
+
+## Timeline by Decade
+
+![More detailed temporal analysis](att/timeline-by-decade.png){width="700"}
+
+::: {.notes}
+11:15–11:20 More detailed temporal analysis, discuss trends, transition to Part 2
+:::
+
+___
+
+## Part 2: Advanced Analysis & Visualisation
+
+**What you'll do in Steps 4–5:**
+
+1. **Export** your results to Excel for further analysis
+2. **Create** data tables and visualisation charts
+3. **Use CQL** to query specific nouns in the construction
+4. **Compare** patterns across different historical periods
+
+**Goal:** Master data export, visualisation, and advanced corpus queries
+
+**Time:** ~25 minutes
+
+::: {.notes}
+11:20–11:22 Explain Part 2 objectives, emphasise model solution availability
+:::
+
+___
+
+## Step 4: Excel Analysis
+
+![Export results in Excel format (.xlsx file type)](att/export-excel.png){width="600"}
+
+::: {.notes}
+11:18–11:20 Show Excel export process
+:::
+
+___
+
+## Model Solution Available
+
+**Excel file with sample analysis:**  
+<https://1drv.ms/x/s!AvkgNVl9yS6aokO4dB_h1_DiXKmw>
+
+- export results in Excel format
+- create data tables  
+- generate line charts for both absolute and relative frequencies
+
+___
+
+## Creating Data Tables
+
+![Make a table for further analysis](att/excel-table.png){width="600"}
+
+::: {.notes}
+11:20–11:22 Demonstrate table creation in Excel, refer to model solution
+:::
+
+___
+
+## Line Charts: Absolute Frequency
+
+![Visualising absolute frequency development](att/line-chart-absolute.png){width="600"}
+
+___
+
+## Line Charts: Relative Frequency  
+
+![Visualising relative frequency development](att/line-chart-relative.png){width="600"}
+
+___
+
+## Step 5: CQL Analysis
+
+**Query specifically for the noun in the construction using CQL**
+
+*Hint: use the operator `within` preceding the construction*
+
+**Objective:** Identify the most frequent nouns used in the construction
+
+___
+
+## Most Frequent Nouns
+
+![Analysis of lexical preferences](att/frequent-nouns-1.png){width="700"}
+
+___
+
+![Extended frequency analysis](att/frequent-nouns-2.png){width="700"}
+
+___
+
+![Detailed breakdown of noun frequencies](att/frequent-nouns-3.png){width="600"}
+
+___
+
+## Diachronic Noun Analysis
+
+![How noun preferences change over time](att/nouns-over-time.png){width="700"}
+
+___
+
+## Historical Comparison: 1400–1499
+
+![Most frequent nouns in early period](att/nouns-1400-1499.png){width="600"}
+
+___
+
+## Historical Comparison: 1800–1899
+
+![Most frequent nouns in later period](att/nouns-1800-1899.png){width="600"}
+
+___
+
+## Summary
+
+- **Theoretical framework:** EC-Model for understanding syntactic change
+- **Methodological skills:** Corpus querying, frequency analysis, CQL
+- **Research workflow:** From hypothesis to interpretation
+- **Historical perspective:** How constructions evolve over centuries
+- **Cognitive perspective:** How individual authors' minds differ and shape language change
+
+::: {.notes}
+11:40–11:43 Wrap up session, connect to broader course themes, preview next session
+:::
+
+___
+
+# References

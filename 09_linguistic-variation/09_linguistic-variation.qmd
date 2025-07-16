@@ -1,0 +1,312 @@
+---
+title: "Linguistic Variation"
+subtitle: "Seminar 'Corpus Linguistics'"
+author: "Quirin Würschinger, LMU Munich"
+date: 2025-07-10
+format:
+  clean-revealjs:
+    slide-number: true
+    slide-level: 2
+css: custom.css
+bibliography: references.bib
+---
+
+
+# Session Overview
+
+- Research projects group work
+- Linguistic variation in the use of tag questions
+    - theory: @Tottie2006Tag
+        - structure
+        - variation between BrE and AmE
+        - social variation (gender, age, social class)
+    - practice: BNC 2014 Spoken corpus on SkE
+
+::: {.notes}
+10:17–10:19 introduce session aims
+:::
+
+
+# Workshop Projects
+
+- group task: draft or refine a mini study plan and add one slide to the shared deck  
+- shared deck: <https://1drv.ms/p/c/9a2ec97d593520f9/EUu0cQtCO1pMnlyH0FZKnRMBFWa2hCajBPKjPBhkbnPZog>  
+- template fields to complete: 
+    - research question and hypothesis  
+    - data and methods
+    - expected results
+- plenary: each group gets ~60 s to pitch with short Q&A
+
+::: {.notes}
+10:15–10:25 group work  
+10:25–10:29 presentations (1 min each)
+:::
+
+
+# Tag Questions
+
+## What are tag questions?
+
+. . .
+
+- consist of an anchor clause + a tag
+- subject in tag must be pronoun, *there*, or *one*
+- verb in tag must be auxiliary or modal
+
+![](att/tag-questions-canonical_1718893745563_0.png)
+
+::: {.notes}
+10:19–10:23 define tag questions, walk through canonical types
+:::
+
+
+## Polarity Patterns
+
+- reversed polarity most common
+    - `+ -`: *It's hot today, isn't it?*
+    - `- +`: *It isn't working, is it?*
+- constant positive and constant negative possible but rare
+    - `+ +`: *She can drive, can she?*
+    - `- -`: *He can't swim, can't he?*
+
+::: {.notes}
+10:23–10:26 explain polarity options with examples
+:::
+
+
+## Study background
+
+Tottie, Gunnel, and Sebastian Hoffmann. 2006. ‘Tag Questions in British and American English’. Journal of English Linguistics 34 (4): 283–311. <https://doi.org/10.1177/0075424206294369>.
+
+- compares tag questions in British (BNC-S) and American (LSAC) spoken corpora  
+- examines form, polarity and pragmatic functions  
+- explores sociolinguistic factors: gender, age, social class  
+- finds tags about three times more frequent in British English, reversed polarity dominant (≈ 75 %)  
+- women use tags more frequently and for facilitative purposes 
+
+
+## Pragmatic Functions {.small}
+
+![](att/tag-questions-functions-comparison_1718894372251_0.png)
+
+___
+
+- Informational
+    - *You live in London, don't you?*
+- Confirmatory
+    - *This report was sent yesterday, wasn't it?*
+- Facilitating
+    - *Let's move on, shall we?*
+- Attitudinal
+    - *That was a fantastic game, wasn't it?*
+- Peremptory
+    - *Close the window, will you?*
+- Aggressive
+    - *You're going to mess this up again, aren't you?*
+
+::: {.notes}
+10:26–10:30 discuss pragmatic functions
+:::
+
+
+## Variation Across British and American English
+
+![](att/image_1718915756921_0.png)
+
+::: {.small}
+**BNC-S**
+: the spoken demographic subpart of the British National Corpus
+
+**LSAC**
+: the Longman Spoken American Corpus
+:::
+
+___
+
+![](att/image_1718915847214_0.png)
+
+::: {.notes}
+10:30–10:34 present cross-variety findings (figures adapted from @Tottie2006Tag)
+:::
+
+___
+
+## Auxiliary Choice
+
+![](att/image_1718916183635_0.png)
+
+- modal auxiliaries dominate (especially *will*, *would*)
+- regional differences in choice of *be* vs *do*
+
+::: {.notes}
+10:34–10:36 auxiliary patterns
+:::
+
+___
+
+## Pronouns and Phrases
+
+![](att/image_1718917886255_0.png)
+
+___
+
+![](att/image_1718917936267_0.png)
+
+::: {.notes}
+10:36–10:40 pronoun & phrase frequency
+:::
+
+___
+
+## Sociolinguistic Factors
+
+### Gender Comparison (Women vs Men)
+
+- ![](att/gender-women-men-comparison.png)
+
+___
+
+### Age-Group Comparison
+
+- ![](att/age-groups-comparison.png)
+
+::: {.notes}
+10:40–10:45 gender and age variation
+:::
+
+
+# Interim Summary
+
+- reversed polarity tags most frequent
+- significant BE/AE contrasts
+- gender & age influence usage
+- form–function mapping varies with context
+
+::: {.notes}
+- 10:45–10:47 wrap up theory section
+- BREAK: 10:47–10:52
+:::
+
+
+# Practice: Corpus Study with Sketch Engine
+
+**Corpus:** BNC 2014 Spoken
+
+**Objective:** replicate and extend Tottie’s analysis on present-day data
+
+::: {.notes}
+10:52–10:55 introduce practice block
+:::
+
+___
+
+## Study Questions {.small}
+
+About the structure of tag questions:
+
+1. How many false positives did your query return?
+2. Which question tags are most frequent (e.g. *is n't it*, *are n't you*, etc.)?
+3. Which pronouns are most frequent?
+4. Which verbs are most frequent?
+5. Are negated or positive tags more frequent?
+
+About their use in different contexts:
+
+6. How do tag questions differ in different age groups?
+7. How do tag questions differ in different genders?
+8. How do tag questions differ in different social classes?
+9. How do tag questions differ in different educational levels?
+
+Further study:
+
+10. Which polarity patterns are most frequent? (e.g. `+ -` vs `- +`)
+
+
+## Overview of steps
+
+- [Retrieve tag question attestations](#retrieve-attestations)  
+- [Evaluate false positives](#evaluate-false-positives)  
+- [Frequency of tag forms, pronouns & verbs](#frequency-tag-forms)  
+- [Distribution across metadata](#distribution-metadata)
+
+::: {.notes}
+10:55–10:57 outline task list
+:::
+
+___
+
+## 1: Retrieve Attestations {#retrieve-attestations}
+
+CQL query:
+
+```
+1:[lemma="be|do|have" | tag="MD"]  2:[lemma="not"]?   3:[tag="PP.?"] [word="\?"]
+```
+
+![](att/cql-builder.png)
+
+___
+
+### Hints
+
+- You can exclude utterance-initial hits with `<u> []{1,} … within <u/>`.
+- You can exclude preceding *wh*-words with `[lemma!="where|who|which|when"]`.
+- You can exclude cases where a verb follows the pronoun immediately by adding `[tag!="V.*"]` after the pronoun in your pattern.
+- You can exclude cases where an adjective follows the pronoun by adding `[tag!="J.*"]` after the pronoun.
+
+::: {.notes}
+10:57–11:05 demonstrate query building, students replicate
+:::
+
+___
+
+## Step 2: Evaluate False Positives {#evaluate-false-positives}
+
+- download a random sample of 50 hits
+- annotate in Excel (`Label` column: 0 = false positive, 1 = true positive)
+- refine the CQL query or use Excel filters to reduce noise.  
++ Model sheet (template): <https://1drv.ms/x/s!AvkgNVl9yS6aokmqDbTz5BmfbU6C>
+
+::: {.notes}
+11:05–11:12 walk through sampling & evaluation
+:::
+
+
+## Step 3: Frequency of Tag Forms {#frequency-tag-forms}
+
+- most frequent complete tag phrases (*is n't it*, *are n't you*, etc.)
+- most frequent pronouns 
+- most frequent verbs 
+- export frequency tables to Excel for charts
+
+::: {.notes}
+11:12–11:20 analyse frequency patterns
+:::
+
+
+## Step 4: Distribution across Metadata {#distribution-metadata}
+
+cross-tabulate frequencies by
+
+    - `Age range`
+    - `Gender`
+    - `Class: Social grade`
+    - `Highest qualification`
+
+::: {.notes}
+11:20–11:30 explore sociolinguistic factors
+:::
+
+
+## Summary & Discussion
+
+- compare BNC 2014 findings with @Tottie2006Tag
+- reflect on methodological challenges (false positives, metadata)
+- discuss potential research extensions
+
+::: {.notes}
+11:38–11:43 session wrap-up, preview next topic
+:::
+
+
+# References
