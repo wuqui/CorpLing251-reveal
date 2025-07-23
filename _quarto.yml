@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
   render:
     - "*.qmd"
     - "07_syntax/07_syntax.qmd"

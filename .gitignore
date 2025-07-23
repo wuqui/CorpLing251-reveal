@@ -45,3 +45,4 @@ materials_pool/
 
 # Quarto website files
 /.quarto/
+/_site/
