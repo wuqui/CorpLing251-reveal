@@ -9,7 +9,7 @@ project:
     - "11_wrap-up/11_wrap-up.qmd"
 
 website:
-  title: "Corpus Linguistics Seminar (CorpLing251)"
+  title: "Corpus Linguistics"
   navbar:
     left:
       - href: index.qmd
@@ -26,12 +26,12 @@ website:
             href: 10_language-change/10_language-change.html
           - text: "11 – Wrap-up"
             href: 11_wrap-up/11_wrap-up.html
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
 
 

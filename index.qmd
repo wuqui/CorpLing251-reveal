@@ -1,30 +1,27 @@
 ---
-title: "Corpus Linguistics Seminar"
-subtitle: "CorpLing251 - LMU Munich"
+title: "Corpus Linguistics"
 author: "Quirin Würschinger"
-date: "2025-1 HS"
+date: today
 ---
 
-# Welcome to Corpus Linguistics
+This website contains all materials for the **Corpus Linguistics** seminar taught at LMU Munich during the 2025 summer semester.
 
-This website contains all materials for the **Corpus Linguistics** seminar (CorpLing251) taught at LMU Munich during the 2025-1 summer semester.
-
-## Course Overview
+# Course Overview
 
 Corpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.
 
-### Learning Objectives
+# Learning Objectives
 
 By the end of this course, you will be able to:
 
 - Apply core corpus linguistic methods to investigate language use
-- Use **Sketch Engine** for advanced corpus analysis
+- Use Sketch Engine for advanced corpus analysis
 - Understand frequency effects and distributional patterns in language
 - Analyse linguistic variation across social groups and text types
 - Study language change using diachronic corpora
 - Design and conduct independent corpus-based research
 
-## Session Materials
+# Session Materials
 
 The course covers advanced topics in corpus linguistics through practical applications:
 
@@ -57,7 +54,7 @@ The course covers advanced topics in corpus linguistics through practical applic
 - Research pathways and future directions
 - Course reflection and feedback
 
-## Technical Skills
+# Technical Skills
 
 Throughout the course, you'll master:
 
@@ -67,18 +64,15 @@ Throughout the course, you'll master:
 - **Diachronic comparison**: tracking language change
 - **Statistical interpretation**: frequency patterns and significance
 
-## Assessment
 
-- **Term paper** (80%): Independent corpus-based research project
-- **Participation** (20%): Active engagement in seminars and exercises
-
-## Resources
+# Resources
 
 - **Primary tool**: [Sketch Engine](https://www.sketchengine.eu/)
 - **Key textbook**: Stefanowitsch (2020) *Corpus Linguistics: A Guide to the Methodology*
 - **Additional readings**: Available through course materials
 
-## Contact
+
+# Contact
 
 **Instructor**: Quirin Würschinger  
 **Email**: Contact via LMU systems  
