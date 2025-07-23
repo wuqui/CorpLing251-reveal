@@ -1,0 +1,275 @@
+---
+title: "Course Wrap-up & Synthesis"
+subtitle: "Seminar 'Corpus Linguistics'"
+author: "Quirin Würschinger, LMU Munich"
+date: 2025-07-24
+format:
+  clean-revealjs:
+    slide-number: true
+    slide-level: 2
+    font-size: 20
+    height: 800
+revealjs-plugins:
+  - pointer
+  - excalidraw
+pointer:
+  key: "q"
+excalidraw:
+  button: false
+  shortcut: "`"
+  theme: "light"
+css: custom.css
+bibliography: references.bib
+---
+
+# Session Overview
+
+::: {.notes}
+**Timing Overview (60 minutes total)**
+
+| Segment | Time | Duration |
+|---------|------|----------|
+| **Exercise completion** | 10:15–10:45 | 30 min |
+| **Break** | 10:45–10:50 | 5 min |
+| Course journey recap | 10:50–11:00 | 10 min |
+| Key concepts synthesis | 11:00–11:10 | 10 min |
+| Methods & tools mastery | 11:10–11:20 | 10 min |
+| Research pathways | 11:20–11:30 | 10 min |
+| **Course feedback** | 11:30–11:45 | 15 min |
+
+**Session structure:**
+- First 30 min: Complete outstanding exercises
+- Break: 5 min
+- Synthesis & reflection: 40 min
+- Feedback collection: 15 min
+:::
+
+- Last week’s exercises
+- Course recap of previous sessions
+- Key concepts synthesis
+- Methods & tools consolidation  
+- Research pathways & future directions
+- Course feedback & reflection
+
+
+# A Recap of what we've done
+
+## Sessions 01-06: Foundations & Core Methods
+
+::: {.notes}
+10:50–10:55 (5 min) - Recap foundational sessions
+:::
+
+**Building the foundation**
+
+. . .
+
+1. Organisation & introduction to corpus linguistics
+2. Sketch Engine skills (concordancing, frequency)
+3. Lexical innovation & diffusion patterns
+4. Morphology & word-formation processes
+5. Meaning analysis, collocations, word sketches (*clipping* study, @Hilpert2023Meaning)
+6. Creating corpora (principles & practice)
+
+. . .
+
+→ **Core skills acquired**: corpus search, frequency analysis, morphological investigation, corpus design
+
+## Sessions 07-10: Advanced Applications
+
+::: {.notes}
+10:55–11:00 (5 min) - Recap advanced sessions
+:::
+
+**From methods to research**
+
+. . .
+
+7. Syntax analysis (constructions, CQL, entrenchment research)
+8. Research project planning & term paper methodology  
+9. Linguistic variation (tag questions, social factors)
+10. Language change (modal verbs, diachronic analysis)
+
+. . .
+
+→ **Research skills developed**: syntactic investigation, sociolinguistic analysis, historical corpus research, project design
+
+# Key Concepts Synthesis
+
+## Corpus Linguistics as Method & Theory
+
+::: {.notes}
+11:00–11:05 (5 min) - Synthesise theoretical frameworks
+:::
+
+**What we've learnt about corpus linguistics**
+
+. . .
+
+- **Empirical foundation**: language use patterns in large datasets
+- **Frequency effects**: usage frequency shapes linguistic structure
+- **Contextual meaning**: distributional semantics and collocational profiles
+- **Variation & change**: systematic patterns across time, space, social groups
+
+. . .
+
+**Theoretical frameworks encountered:**
+
+- **Construction Grammar** (syntax study, Session 07)
+- **Principle of No Synonymy** (clipping study, Session 05)  
+- **Entrenchment & Conventionalisation** (syntactic patterns, Session 07)
+- **Sociolinguistic variation theory** (tag questions, Session 09)
+
+## Language Levels & Phenomena
+
+::: {.notes}
+11:05–11:10 (5 min) - Consolidate linguistic levels covered
+:::
+
+**Corpus methods across linguistic levels**
+
+. . .
+
+| Level | Phenomena | Methods | Focus |
+|-------|-----------|---------|--------------|
+| **Lexis** | Innovation, diffusion | Frequency tracking, diachronic analysis | Patterns of lexical change |
+| **Morphology** | Word-formation, clipping | Collocational analysis, meaning comparison | Form-meaning relationships |
+| **Syntax** | Constructions, CQL patterns | Frequency analysis, entrenchment measures | Usage-based grammar |
+| **Sociolinguistics** | Variation, change | Social factor analysis, diachronic comparison | Language and society |
+
+. . .
+
+→ **Corpus linguistics = versatile methodology** across all language levels
+
+# Methods & Tools
+
+## Technical Skills Acquired
+
+::: {.notes}
+11:10–11:15 (5 min) - Consolidate practical skills
+:::
+
+**Your corpus linguistics toolkit**
+
+. . .
+
+**Search & Analysis:**
+
+- **Sketch Engine**: concordancing, frequency lists, word sketches
+- **CQL (Corpus Query Language)**: advanced pattern searches
+- **Collocational analysis**: meaning through co-occurrence
+- **Diachronic comparison**: tracking change over time
+
+. . .
+
+**Research Design:**
+
+- **Corpus selection**: appropriate data for research questions
+- **Hypothesis formation**: testable predictions about language use
+- **Statistical interpretation**: frequency patterns and significance
+- **Critical evaluation**: corpus limitations and biases
+
+## From Data to Insights
+
+::: {.notes}
+11:15–11:20 (5 min) - Connect methods to research process
+:::
+
+**The corpus research process you've mastered**
+
+. . .
+
+1. **Research question formulation** → clear, testable hypotheses
+2. **Corpus selection** → appropriate data for your question  
+3. **Query design** → CQL and search strategies
+4. **Data extraction** → concordances, frequency lists, collocations
+5. **Pattern analysis** → quantitative and qualitative interpretation
+6. **Contextual interpretation** → linguistic and social meaning
+7. **Critical reflection** → methodological limitations and insights
+
+. . .
+
+→ **You can now conduct independent corpus-based research**
+
+# Research Pathways & Future Directions
+
+## Contemporary Corpus Linguistics
+
+::: {.notes}
+11:20–11:25 (5 min) - Current trends and future possibilities
+:::
+
+**Where corpus linguistics is heading**
+
+. . .
+
+**Technological advances:**
+
+- **Large language models** and corpus data
+- **Multimodal corpora** (text, speech, video)
+- **Real-time corpus compilation** (social media, web scraping)
+- **Automated annotation** (parsing, semantic tagging)
+
+. . .
+
+**Emerging research areas:**
+
+- **Digital humanities** applications
+- **Forensic linguistics** and authorship analysis
+- **Second language acquisition** and learner corpora
+- **Computational sociolinguistics** and social media analysis
+
+
+# Course Feedback & Reflection
+
+## What worked well?
+
+::: {.notes}
+11:30–11:35 (5 min) - Positive feedback collection
+:::
+
+**Your thoughts on the course**
+
+. . .
+
+**Please reflect on:**
+
+- Which sessions were most valuable for your learning?
+- What aspects of corpus linguistics excited you most?
+- Which practical skills do you feel most confident about?
+- How well did the balance of theory and practice work?
+- What connections did you make to your other studies?
+
+. . .
+
+**Discussion time**: Share your highlights and insights
+
+## Areas for improvement
+
+::: {.notes}
+11:35–11:40 (5 min) - Constructive feedback collection
+:::
+
+**How can we improve?**
+
+. . .
+
+**Consider:**
+
+- Which topics needed more time or clearer explanation?
+- Were there technical difficulties that slowed learning?
+- What additional topics would you have liked to cover?
+- How could the session structure be improved?
+- What resources would be helpful for continued learning?
+
+. . .
+
+**Constructive feedback welcome**: Your input shapes future courses
+
+. . .
+
+**Thank you for an engaging semester!** 
+
+**Questions, discussion, final thoughts?** 
+
+# References
