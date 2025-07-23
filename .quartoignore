@@ -1,0 +1,9 @@
+materials_pool/
+**/materials_pool/
+*/worksheet_template.*
+agenda.md
+.DS_Store
+README.md
+2025-1_hs_corpus-linguistics.md
+**/logseq/
+**/*.html 

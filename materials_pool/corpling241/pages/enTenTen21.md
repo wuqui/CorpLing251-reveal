@@ -1,4 +1,0 @@
-- [[Sketch Engine]] documentation: https://www.sketchengine.eu/ententen-english-corpus/
-	- > The English Web Corpus (enTenTen) is an English corpus made up of texts collected from the Internet. The corpus belongs to the TenTen corpus family. Sketch Engine currently provides access to TenTen corpora in more than 40 languages. The corpora are built using technology specialized in collecting only linguistically valuable web content.
-	  For detailed information about TenTen corpora, see Common TenTen corpora attributes.
-	  The most recent version of the enTenTen corpus consists of 52 billion words. The texts were downloaded in October–December 2021 and January 2022. The sample texts of the biggest web domains which account for 40% of all corpus texts were checked semi-manually and content with poor quality text and spam was removed.

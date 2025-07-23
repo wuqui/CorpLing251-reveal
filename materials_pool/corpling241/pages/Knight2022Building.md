@@ -1,2 +1,0 @@
-- [[bibliography]]
-	- Knight, Dawn, and Svenja Adophs. 2022. ‘Building a Spoken Corpus: What Are the Basics?’ In *The Routledge Handbook of Corpus Linguistics*, edited by Anne O’Keeffe and Michael McCarthy, 21–34.

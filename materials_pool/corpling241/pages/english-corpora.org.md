@@ -1,2 +1,0 @@
-- website: https://www.english-corpora.org/
-- guided tour: https://www.english-corpora.org/pdf/english-corpora.pdf

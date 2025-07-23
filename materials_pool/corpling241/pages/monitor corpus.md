@@ -1,2 +1,0 @@
-- A monitor [corpus]([[corpus]]) is a continuously updated collection of text or speech data from various sources, designed to track and analyze the ongoing changes and trends in language usage. It serves as a valuable resource for studying linguistic patterns, identifying [new words]([[lexical innovation]]) or phrases, and monitoring shifts in grammar and semantics over time. By providing a snapshot of language [at different points in time]([[diachronic]]), monitor corpora help linguists understand the dynamic nature of language and its evolution.
-- Example: [[NOW corpus]]

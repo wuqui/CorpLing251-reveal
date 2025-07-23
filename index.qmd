@@ -1,0 +1,89 @@
+---
+title: "Corpus Linguistics Seminar"
+subtitle: "CorpLing251 - LMU Munich"
+author: "Quirin Würschinger"
+date: "2025-1 HS"
+---
+
+# Welcome to Corpus Linguistics
+
+This website contains all materials for the **Corpus Linguistics** seminar (CorpLing251) taught at LMU Munich during the 2025-1 summer semester.
+
+## Course Overview
+
+Corpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.
+
+### Learning Objectives
+
+By the end of this course, you will be able to:
+
+- Apply core corpus linguistic methods to investigate language use
+- Use **Sketch Engine** for advanced corpus analysis
+- Understand frequency effects and distributional patterns in language
+- Analyse linguistic variation across social groups and text types
+- Study language change using diachronic corpora
+- Design and conduct independent corpus-based research
+
+## Session Materials
+
+The course covers advanced topics in corpus linguistics through practical applications:
+
+### [Session 07: Syntax Analysis](07_syntax/07_syntax.html)
+- Construction Grammar and corpus evidence
+- Advanced CQL (Corpus Query Language) patterns
+- Entrenchment and conventionalisation
+- Syntactic frequency and usage-based grammar
+
+### [Session 08: Research Projects](08_research-projects/08_research-projects.html)
+- Term paper methodology and planning
+- Research question formulation
+- Corpus selection and design principles
+- Statistical analysis and interpretation
+
+### [Session 09: Linguistic Variation](09_linguistic-variation/09_linguistic-variation.html)
+- Social factors in language use
+- Tag questions and discourse functions
+- Register and text type variation
+- Sociolinguistic corpus analysis
+
+### [Session 10: Language Change](10_language-change/10_language-change.html)
+- Diachronic corpus methods
+- Modal verbs and grammaticalisation
+- S-curve models of language change
+- Historical corpus analysis
+
+### [Session 11: Course Wrap-up](11_wrap-up/11_wrap-up.html)
+- Synthesis of key concepts and methods
+- Research pathways and future directions
+- Course reflection and feedback
+
+## Technical Skills
+
+Throughout the course, you'll master:
+
+- **Sketch Engine**: concordancing, frequency analysis, word sketches
+- **CQL patterns**: advanced corpus querying
+- **Collocational analysis**: meaning through co-occurrence
+- **Diachronic comparison**: tracking language change
+- **Statistical interpretation**: frequency patterns and significance
+
+## Assessment
+
+- **Term paper** (80%): Independent corpus-based research project
+- **Participation** (20%): Active engagement in seminars and exercises
+
+## Resources
+
+- **Primary tool**: [Sketch Engine](https://www.sketchengine.eu/)
+- **Key textbook**: Stefanowitsch (2020) *Corpus Linguistics: A Guide to the Methodology*
+- **Additional readings**: Available through course materials
+
+## Contact
+
+**Instructor**: Quirin Würschinger  
+**Email**: Contact via LMU systems  
+**Office hours**: By appointment
+
+---
+
+*This website provides open access to course materials for educational purposes. All content is licensed under Creative Commons where applicable.* 

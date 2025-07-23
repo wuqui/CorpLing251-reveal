@@ -1,1 +1,0 @@
-- [[geographical variation]] with regard to [[pronunciation]]

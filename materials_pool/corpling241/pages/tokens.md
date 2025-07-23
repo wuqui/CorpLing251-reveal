@@ -1,7 +1,0 @@
-- example
-	- *The boy plays basketball . The girl likes basketball .*
-		- tokens: 10
-		- types
-			- .: 2 tokens
-			- THE: 2 tokens
-			- BASKETBALL: 2 tokens

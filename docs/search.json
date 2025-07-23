@@ -1,0 +1,422 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "This website contains all materials for the Corpus Linguistics seminar (CorpLing251) taught at LMU Munich during the 2025-1 summer semester.\n\n\nCorpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.\n\n\nBy the end of this course, you will be able to:\n\nApply core corpus linguistic methods to investigate language use\nUse Sketch Engine for advanced corpus analysis\nUnderstand frequency effects and distributional patterns in language\nAnalyse linguistic variation across social groups and text types\nStudy language change using diachronic corpora\nDesign and conduct independent corpus-based research\n\n\n\n\n\nThe course covers advanced topics in corpus linguistics through practical applications:\n\n\n\nConstruction Grammar and corpus evidence\nAdvanced CQL (Corpus Query Language) patterns\nEntrenchment and conventionalisation\nSyntactic frequency and usage-based grammar\n\n\n\n\n\nTerm paper methodology and planning\nResearch question formulation\nCorpus selection and design principles\nStatistical analysis and interpretation\n\n\n\n\n\nSocial factors in language use\nTag questions and discourse functions\nRegister and text type variation\nSociolinguistic corpus analysis\n\n\n\n\n\nDiachronic corpus methods\nModal verbs and grammaticalisation\nS-curve models of language change\nHistorical corpus analysis\n\n\n\n\n\nSynthesis of key concepts and methods\nResearch pathways and future directions\nCourse reflection and feedback\n\n\n\n\n\nThroughout the course, you’ll master:\n\nSketch Engine: concordancing, frequency analysis, word sketches\nCQL patterns: advanced corpus querying\nCollocational analysis: meaning through co-occurrence\nDiachronic comparison: tracking language change\nStatistical interpretation: frequency patterns and significance\n\n\n\n\n\nTerm paper (80%): Independent corpus-based research project\nParticipation (20%): Active engagement in seminars and exercises\n\n\n\n\n\nPrimary tool: Sketch Engine\nKey textbook: Stefanowitsch (2020) Corpus Linguistics: A Guide to the Methodology\nAdditional readings: Available through course materials\n\n\n\n\nInstructor: Quirin Würschinger\nEmail: Contact via LMU systems\nOffice hours: By appointment\n\nThis website provides open access to course materials for educational purposes. All content is licensed under Creative Commons where applicable."
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "Corpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.\n\n\nBy the end of this course, you will be able to:\n\nApply core corpus linguistic methods to investigate language use\nUse Sketch Engine for advanced corpus analysis\nUnderstand frequency effects and distributional patterns in language\nAnalyse linguistic variation across social groups and text types\nStudy language change using diachronic corpora\nDesign and conduct independent corpus-based research"
+  },
+  {
+    "objectID": "index.html#session-materials",
+    "href": "index.html#session-materials",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "The course covers advanced topics in corpus linguistics through practical applications:\n\n\n\nConstruction Grammar and corpus evidence\nAdvanced CQL (Corpus Query Language) patterns\nEntrenchment and conventionalisation\nSyntactic frequency and usage-based grammar\n\n\n\n\n\nTerm paper methodology and planning\nResearch question formulation\nCorpus selection and design principles\nStatistical analysis and interpretation\n\n\n\n\n\nSocial factors in language use\nTag questions and discourse functions\nRegister and text type variation\nSociolinguistic corpus analysis\n\n\n\n\n\nDiachronic corpus methods\nModal verbs and grammaticalisation\nS-curve models of language change\nHistorical corpus analysis\n\n\n\n\n\nSynthesis of key concepts and methods\nResearch pathways and future directions\nCourse reflection and feedback"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "Throughout the course, you’ll master:\n\nSketch Engine: concordancing, frequency analysis, word sketches\nCQL patterns: advanced corpus querying\nCollocational analysis: meaning through co-occurrence\nDiachronic comparison: tracking language change\nStatistical interpretation: frequency patterns and significance"
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "Term paper (80%): Independent corpus-based research project\nParticipation (20%): Active engagement in seminars and exercises"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "Primary tool: Sketch Engine\nKey textbook: Stefanowitsch (2020) Corpus Linguistics: A Guide to the Methodology\nAdditional readings: Available through course materials"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Corpus Linguistics Seminar",
+    "section": "",
+    "text": "Instructor: Quirin Würschinger\nEmail: Contact via LMU systems\nOffice hours: By appointment\n\nThis website provides open access to course materials for educational purposes. All content is licensed under Creative Commons where applicable."
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#sessions-01-06-foundations-core-methods",
+    "href": "11_wrap-up/11_wrap-up.html#sessions-01-06-foundations-core-methods",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Sessions 01-06: Foundations & Core Methods",
+    "text": "Sessions 01-06: Foundations & Core Methods\n\n10:50–10:55 (5 min) - Recap foundational sessions\n\nBuilding the foundation\n\n\nOrganisation & introduction to corpus linguistics\nSketch Engine skills (concordancing, frequency)\nLexical innovation & diffusion patterns\nMorphology & word-formation processes\nMeaning analysis, collocations, word sketches (clipping study, Hilpert, Correia Saavedra, and Rains (2023))\nCreating corpora (principles & practice)\n\n\n\n→ Core skills acquired: corpus search, frequency analysis, morphological investigation, corpus design"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#sessions-07-10-advanced-applications",
+    "href": "11_wrap-up/11_wrap-up.html#sessions-07-10-advanced-applications",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Sessions 07-10: Advanced Applications",
+    "text": "Sessions 07-10: Advanced Applications\n\n10:55–11:00 (5 min) - Recap advanced sessions\n\nFrom methods to research\n\n\nSyntax analysis (constructions, CQL, entrenchment research)\nResearch project planning & term paper methodology\n\nLinguistic variation (tag questions, social factors)\nLanguage change (modal verbs, diachronic analysis)\n\n\n\n→ Research skills developed: syntactic investigation, sociolinguistic analysis, historical corpus research, project design"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#corpus-linguistics-as-method-theory",
+    "href": "11_wrap-up/11_wrap-up.html#corpus-linguistics-as-method-theory",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Corpus Linguistics as Method & Theory",
+    "text": "Corpus Linguistics as Method & Theory\n\n11:00–11:05 (5 min) - Synthesise theoretical frameworks\n\nWhat we’ve learnt about corpus linguistics\n\n\nEmpirical foundation: language use patterns in large datasets\nFrequency effects: usage frequency shapes linguistic structure\nContextual meaning: distributional semantics and collocational profiles\nVariation & change: systematic patterns across time, space, social groups\n\n\n\nTheoretical frameworks encountered:\n\nConstruction Grammar (syntax study, Session 07)\nPrinciple of No Synonymy (clipping study, Session 05)\n\nEntrenchment & Conventionalisation (syntactic patterns, Session 07)\nSociolinguistic variation theory (tag questions, Session 09)"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#language-levels-phenomena",
+    "href": "11_wrap-up/11_wrap-up.html#language-levels-phenomena",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Language Levels & Phenomena",
+    "text": "Language Levels & Phenomena\n\n11:05–11:10 (5 min) - Consolidate linguistic levels covered\n\nCorpus methods across linguistic levels\n\n\n\n\n\n\n\n\n\n\nLevel\nPhenomena\nMethods\nFocus\n\n\n\n\nLexis\nInnovation, diffusion\nFrequency tracking, diachronic analysis\nPatterns of lexical change\n\n\nMorphology\nWord-formation, clipping\nCollocational analysis, meaning comparison\nForm-meaning relationships\n\n\nSyntax\nConstructions, CQL patterns\nFrequency analysis, entrenchment measures\nUsage-based grammar\n\n\nSociolinguistics\nVariation, change\nSocial factor analysis, diachronic comparison\nLanguage and society\n\n\n\n\n\n→ Corpus linguistics = versatile methodology across all language levels"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#technical-skills-acquired",
+    "href": "11_wrap-up/11_wrap-up.html#technical-skills-acquired",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Technical Skills Acquired",
+    "text": "Technical Skills Acquired\n\n11:10–11:15 (5 min) - Consolidate practical skills\n\nYour corpus linguistics toolkit\n\nSearch & Analysis:\n\nSketch Engine: concordancing, frequency lists, word sketches\nCQL (Corpus Query Language): advanced pattern searches\nCollocational analysis: meaning through co-occurrence\nDiachronic comparison: tracking change over time\n\n\n\nResearch Design:\n\nCorpus selection: appropriate data for research questions\nHypothesis formation: testable predictions about language use\nStatistical interpretation: frequency patterns and significance\nCritical evaluation: corpus limitations and biases"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#from-data-to-insights",
+    "href": "11_wrap-up/11_wrap-up.html#from-data-to-insights",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "From Data to Insights",
+    "text": "From Data to Insights\n\n11:15–11:20 (5 min) - Connect methods to research process\n\nThe corpus research process you’ve mastered\n\n\nResearch question formulation → clear, testable hypotheses\nCorpus selection → appropriate data for your question\n\nQuery design → CQL and search strategies\nData extraction → concordances, frequency lists, collocations\nPattern analysis → quantitative and qualitative interpretation\nContextual interpretation → linguistic and social meaning\nCritical reflection → methodological limitations and insights\n\n\n\n→ You can now conduct independent corpus-based research"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#contemporary-corpus-linguistics",
+    "href": "11_wrap-up/11_wrap-up.html#contemporary-corpus-linguistics",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Contemporary Corpus Linguistics",
+    "text": "Contemporary Corpus Linguistics\n\n11:20–11:25 (5 min) - Current trends and future possibilities\n\nWhere corpus linguistics is heading\n\nTechnological advances:\n\nLarge language models and corpus data\nMultimodal corpora (text, speech, video)\nReal-time corpus compilation (social media, web scraping)\nAutomated annotation (parsing, semantic tagging)\n\n\n\nEmerging research areas:\n\nDigital humanities applications\nForensic linguistics and authorship analysis\nSecond language acquisition and learner corpora\nComputational sociolinguistics and social media analysis"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#what-worked-well",
+    "href": "11_wrap-up/11_wrap-up.html#what-worked-well",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "What worked well?",
+    "text": "What worked well?\n\n11:30–11:35 (5 min) - Positive feedback collection\n\nYour thoughts on the course\n\nPlease reflect on:\n\nWhich sessions were most valuable for your learning?\nWhat aspects of corpus linguistics excited you most?\nWhich practical skills do you feel most confident about?\nHow well did the balance of theory and practice work?\nWhat connections did you make to your other studies?\n\n\n\nDiscussion time: Share your highlights and insights"
+  },
+  {
+    "objectID": "11_wrap-up/11_wrap-up.html#areas-for-improvement",
+    "href": "11_wrap-up/11_wrap-up.html#areas-for-improvement",
+    "title": "Course Wrap-up & Synthesis",
+    "section": "Areas for improvement",
+    "text": "Areas for improvement\n\n11:35–11:40 (5 min) - Constructive feedback collection\n\nHow can we improve?\n\nConsider:\n\nWhich topics needed more time or clearer explanation?\nWere there technical difficulties that slowed learning?\nWhat additional topics would you have liked to cover?\nHow could the session structure be improved?\nWhat resources would be helpful for continued learning?\n\n\n\nConstructive feedback welcome: Your input shapes future courses\n\n\nThank you for an engaging semester!\nQuestions, discussion, final thoughts?"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#what-are-tag-questions",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#what-are-tag-questions",
+    "title": "Linguistic Variation",
+    "section": "What are tag questions?",
+    "text": "What are tag questions?\n\n\nconsist of an anchor clause + a tag\nsubject in tag must be pronoun, there, or one\nverb in tag must be auxiliary or modal\n\n\n\n10:19–10:23 define tag questions, walk through canonical types"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#polarity-patterns",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#polarity-patterns",
+    "title": "Linguistic Variation",
+    "section": "Polarity Patterns",
+    "text": "Polarity Patterns\n\nreversed polarity most common\n\n+ -: It’s hot today, isn’t it?\n- +: It isn’t working, is it?\n\nconstant positive and constant negative possible but rare\n\n+ +: She can drive, can she?\n- -: He can’t swim, can’t he?\n\n\n\n10:23–10:26 explain polarity options with examples"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#study-background",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#study-background",
+    "title": "Linguistic Variation",
+    "section": "Study background",
+    "text": "Study background\nTottie, Gunnel, and Sebastian Hoffmann. 2006. ‘Tag Questions in British and American English’. Journal of English Linguistics 34 (4): 283–311. https://doi.org/10.1177/0075424206294369.\n\ncompares tag questions in British (BNC-S) and American (LSAC) spoken corpora\n\nexamines form, polarity and pragmatic functions\n\nexplores sociolinguistic factors: gender, age, social class\n\nfinds tags about three times more frequent in British English, reversed polarity dominant (≈ 75 %)\n\nwomen use tags more frequently and for facilitative purposes"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#pragmatic-functions",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#pragmatic-functions",
+    "title": "Linguistic Variation",
+    "section": "Pragmatic Functions",
+    "text": "Pragmatic Functions"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#variation-across-british-and-american-english",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#variation-across-british-and-american-english",
+    "title": "Linguistic Variation",
+    "section": "Variation Across British and American English",
+    "text": "Variation Across British and American English\n\n\n\nBNC-S\n\nthe spoken demographic subpart of the British National Corpus\n\nLSAC\n\nthe Longman Spoken American Corpus"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#auxiliary-choice",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#auxiliary-choice",
+    "title": "Linguistic Variation",
+    "section": "Auxiliary Choice",
+    "text": "Auxiliary Choice\n\n\nmodal auxiliaries dominate (especially will, would)\nregional differences in choice of be vs do\n\n\n10:34–10:36 auxiliary patterns"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#pronouns-and-phrases",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#pronouns-and-phrases",
+    "title": "Linguistic Variation",
+    "section": "Pronouns and Phrases",
+    "text": "Pronouns and Phrases"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#sociolinguistic-factors",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#sociolinguistic-factors",
+    "title": "Linguistic Variation",
+    "section": "Sociolinguistic Factors",
+    "text": "Sociolinguistic Factors\nGender Comparison (Women vs Men)"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#study-questions",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#study-questions",
+    "title": "Linguistic Variation",
+    "section": "Study Questions",
+    "text": "Study Questions\nAbout the structure of tag questions:\n\nHow many false positives did your query return?\nWhich question tags are most frequent (e.g. is n’t it, are n’t you, etc.)?\nWhich pronouns are most frequent?\nWhich verbs are most frequent?\nAre negated or positive tags more frequent?\n\nAbout their use in different contexts:\n\nHow do tag questions differ in different age groups?\nHow do tag questions differ in different genders?\nHow do tag questions differ in different social classes?\nHow do tag questions differ in different educational levels?\n\nFurther study:\n\nWhich polarity patterns are most frequent? (e.g. + - vs - +)"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#overview-of-steps",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#overview-of-steps",
+    "title": "Linguistic Variation",
+    "section": "Overview of steps",
+    "text": "Overview of steps\n\nRetrieve tag question attestations\n\nEvaluate false positives\n\nFrequency of tag forms, pronouns & verbs\n\nDistribution across metadata\n\n\n10:55–10:57 outline task list"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#retrieve-attestations",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#retrieve-attestations",
+    "title": "Linguistic Variation",
+    "section": "1: Retrieve Attestations",
+    "text": "1: Retrieve Attestations\nCQL query:\n1:[lemma=\"be|do|have\" | tag=\"MD\"]  2:[lemma=\"not\"]?   3:[tag=\"PP.?\"] [word=\"\\?\"]"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#evaluate-false-positives",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#evaluate-false-positives",
+    "title": "Linguistic Variation",
+    "section": "Step 2: Evaluate False Positives",
+    "text": "Step 2: Evaluate False Positives\n\ndownload a random sample of 50 hits\nannotate in Excel (Label column: 0 = false positive, 1 = true positive)\nrefine the CQL query or use Excel filters to reduce noise.\n\nModel sheet (template): https://1drv.ms/x/s!AvkgNVl9yS6aokmqDbTz5BmfbU6C\n\n\n11:05–11:12 walk through sampling & evaluation"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#frequency-tag-forms",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#frequency-tag-forms",
+    "title": "Linguistic Variation",
+    "section": "Step 3: Frequency of Tag Forms",
+    "text": "Step 3: Frequency of Tag Forms\n\nmost frequent complete tag phrases (is n’t it, are n’t you, etc.)\nmost frequent pronouns\nmost frequent verbs\nexport frequency tables to Excel for charts\n\n\n11:12–11:20 analyse frequency patterns"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#distribution-metadata",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#distribution-metadata",
+    "title": "Linguistic Variation",
+    "section": "Step 4: Distribution across Metadata",
+    "text": "Step 4: Distribution across Metadata\ncross-tabulate frequencies by\n- `Age range`\n- `Gender`\n- `Class: Social grade`\n- `Highest qualification`\n\n11:20–11:30 explore sociolinguistic factors"
+  },
+  {
+    "objectID": "09_linguistic-variation/09_linguistic-variation.html#summary-discussion",
+    "href": "09_linguistic-variation/09_linguistic-variation.html#summary-discussion",
+    "title": "Linguistic Variation",
+    "section": "Summary & Discussion",
+    "text": "Summary & Discussion\n\ncompare BNC 2014 findings with Tottie and Hoffmann (2006)\nreflect on methodological challenges (false positives, metadata)\ndiscuss potential research extensions\n\n\n11:38–11:43 session wrap-up, preview next topic"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#what-is-language-change",
+    "href": "10_language-change/10_language-change.html#what-is-language-change",
+    "title": "Language Change",
+    "section": "What is language change?",
+    "text": "What is language change?\n\n\nsystematic modifications in language over time\naffects all linguistic levels: phonology, morphology, syntax, semantics\n\nExamples\n\n\n\nphonology: knight /naɪt/ vs Middle English /kniçt/\nmorphology: you (singular) replacing thou/thee\nsyntax: do-support in questions (Do you know? vs Know you?)\nsemantics: nice shifting from ‘foolish’ to ‘pleasant’\n\n→ corpus linguistics provides empirical evidence for change\n\n10:19–10:22 introduce language change concepts"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#research-questions-in-language-change",
+    "href": "10_language-change/10_language-change.html#research-questions-in-language-change",
+    "title": "Language Change",
+    "section": "Research Questions in Language Change",
+    "text": "Research Questions in Language Change\n\nWhat changes? → linguistic features\n\nword order patterns: do-support in questions (Do you know? vs Know you?)\nuse of modal verbs: must declining from 2000 to 500 per million words\n\nWhen does it change? → timing and pace\n\nthou/thee disappears rapidly in 17th century\ngradual decline of shall over 200 years\n\nHow does it change? → mechanisms and patterns\n\nexample: grammaticalization of going to → gonna\nconcrete: have to replaces must in obligation contexts"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#corpus-methods-for-language-change",
+    "href": "10_language-change/10_language-change.html#corpus-methods-for-language-change",
+    "title": "Language Change",
+    "section": "Corpus Methods for Language Change",
+    "text": "Corpus Methods for Language Change\n\nDiachronic corpora: e.g. EEBO, COHA, Gutenberg, COCA, NOW, English Trends\nFrequency analysis: absolute and relative frequencies over time\nText type variation: register-specific changes\nCollocation analysis: changing semantic associations\nStatistical measures: coefficient of variation, significance testing\n\n\n10:25–10:28 discuss methodological approaches"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#theoretical-background-hilpert2015grammatical",
+    "href": "10_language-change/10_language-change.html#theoretical-background-hilpert2015grammatical",
+    "title": "Language Change",
+    "section": "Theoretical Background: Hilpert (2015)",
+    "text": "Theoretical Background: Hilpert (2015)\n\nAnother domain of English grammar that is currently undergoing change is the domain of modality, specifically the modal auxiliaries. In the most general of terms, the situation is that several of the core modal auxiliaries are declining in text frequency (Leech 2003; Mair 2006), while at the same time new quasi-modal elements are undergoing grammaticalization (Krug 2000).\n\nKey question: Why certain forms decline while others rise?"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#core-vs-peripheral-modal-verbs",
+    "href": "10_language-change/10_language-change.html#core-vs-peripheral-modal-verbs",
+    "title": "Language Change",
+    "section": "Core vs Peripheral Modal Verbs",
+    "text": "Core vs Peripheral Modal Verbs\n\n\n\nCore Modal Verbs\n\nwill, would\ncan, could\nmay, might\nshall, should\nmust\n\n\nPeripheral Modal Verbs\n\nBE going to\nhave to\ngot to\nneed to\n\n\n\n10:28–10:30 introduce modal verb categories"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#frequency-changes-over-time",
+    "href": "10_language-change/10_language-change.html#frequency-changes-over-time",
+    "title": "Language Change",
+    "section": "Frequency Changes Over Time",
+    "text": "Frequency Changes Over Time\n\nFrequency changes of modal verbs over time.Overall\n\n↘️ core modals declining\n↗️ peripheral modals rising\n\n\n10:30–10:32 present frequency trends"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#interaction-between-frequency-changes-and-causes",
+    "href": "10_language-change/10_language-change.html#interaction-between-frequency-changes-and-causes",
+    "title": "Language Change",
+    "section": "Interaction between frequency changes and causes",
+    "text": "Interaction between frequency changes and causes\n(Hilpert 2015, 186)\n“The result is a dynamic situation that raises a number of questions.\n\nFor instance, it has been asked why certain forms are in decline whereas others are on the upswing.\nIs there a relation between these developments, and if so, how do we assign the roles of cause and effect?”"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#potential-cause-text-type-variation",
+    "href": "10_language-change/10_language-change.html#potential-cause-text-type-variation",
+    "title": "Language Change",
+    "section": "Potential cause: text type variation",
+    "text": "Potential cause: text type variation\n(Hilpert 2015, 187)\n\n“One explanation for the discrepancies between the tendencies in the Brown family of corpora and in the Time corpus is the composition of the respective corpora.\nWhereas the Brown corpora represent a balanced set of genres, the Time corpus represents a single text type.\nTo test whether genre differences explain the discrepancies, Millar (2009: 207) compares his Time results against an analysis of the press genres in the Brown and Frown corpora, finding, however, no satisfactory convergence between the two.\nMillar thus invokes sampling error as an explanation, which is criticized by Leech (2011a), who replicates the results from the Brown family of corpora on the basis of the balanced diachronic mega-corpora COCA and COHA (Davies 2008, 2010).\nThese results leave the frequency increases of can, could, and may in Time in need of an explanation, for which Leech (2011a: 557) suggests a genre-specific style change in journalistic writing.”"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#study-objectives",
+    "href": "10_language-change/10_language-change.html#study-objectives",
+    "title": "Language Change",
+    "section": "Study objectives",
+    "text": "Study objectives\n\nFrequency analysis: track modal verb usage over time in COHA\nText type variation: examine register preferences in COCA\n\n\n10:35–10:38 outline practice objectives"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#how-to-use-english-corpora.org",
+    "href": "10_language-change/10_language-change.html#how-to-use-english-corpora.org",
+    "title": "Language Change",
+    "section": "How to use english-corpora.org",
+    "text": "How to use english-corpora.org"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#overview-of-corpora",
+    "href": "10_language-change/10_language-change.html#overview-of-corpora",
+    "title": "Language Change",
+    "section": "Overview of Corpora",
+    "text": "Overview of Corpora\n\n\n10:42–10:45 introduce corpora overview"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#views-and-query-types",
+    "href": "10_language-change/10_language-change.html#views-and-query-types",
+    "title": "Language Change",
+    "section": "Views and Query Types",
+    "text": "Views and Query Types\nList View"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#query-syntax",
+    "href": "10_language-change/10_language-change.html#query-syntax",
+    "title": "Language Change",
+    "section": "Query Syntax",
+    "text": "Query Syntax\nLexemes\n\nQuery ADMIN in the NOW corpus"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#collocations",
+    "href": "10_language-change/10_language-change.html#collocations",
+    "title": "Language Change",
+    "section": "Collocations",
+    "text": "Collocations\nCollocates for BROTHER_nn\n\n\n\nCollocates for BROTHER_nn\n\n\n\n\n\nCollocates for BROTHER_nn"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#corpus-resources",
+    "href": "10_language-change/10_language-change.html#corpus-resources",
+    "title": "Language Change",
+    "section": "Corpus Resources",
+    "text": "Corpus Resources\nCOHA (Corpus of Historical American English)\n\n400+ million words, 1810–2009\ndecade-by-decade analysis possible\nfiction and non-fiction texts\n\nCOCA (Corpus of Contemporary American English)\n\n1+ billion words, 1990–present\ntext type categories: spoken, fiction, magazine, newspaper, academic\nenables register analysis\n\n\n10:38–10:42 introduce corpora"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#step-1-frequency-analysis-in-coha",
+    "href": "10_language-change/10_language-change.html#step-1-frequency-analysis-in-coha",
+    "title": "Language Change",
+    "section": "Step 1: Frequency Analysis in COHA",
+    "text": "Step 1: Frequency Analysis in COHA\nTarget decades: 1850, 1900, 1950, 2000\nCQL queries for modals:\n\ncore:\n\ncan_v _v\nwill_v _v\nmay_v _v\nshall_v _v\nmust_v _v\n\nperipheral:\n\nHAVE_v to _v\nBE_v going to _v\nGOT_v to _v\nNEED_v to _v"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#step-2-text-type-analysis-in-coca",
+    "href": "10_language-change/10_language-change.html#step-2-text-type-analysis-in-coca",
+    "title": "Language Change",
+    "section": "Step 2: Text Type Analysis in COCA",
+    "text": "Step 2: Text Type Analysis in COCA\n\n\nCQL queries for modals:\n\ncore:\n\ncan_v _v\nwill_v _v\nmay_v _v\nshall_v _v\nmust_v _v\n\nperipheral:\n\nBE going to _v\n\n\n\nText type categories:\n\nBLOG: blogs\nWEB: web pages\nTV/M: TV and movies\nSPOK: spoken\nFIC: fiction\nMAG: magazines\nNEWS: news\nACAD: academic"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#step-3-statistical-analysis",
+    "href": "10_language-change/10_language-change.html#step-3-statistical-analysis",
+    "title": "Language Change",
+    "section": "Step 3: Statistical Analysis",
+    "text": "Step 3: Statistical Analysis\nCoefficient of Variation (CV)\nDefinition: Statistical measure describing relative variability of data\n\\[\n\\begin{align}\nCV &= \\left( \\frac{\\sigma}{\\mu} \\right) \\times 100 \\\\\n   &= \\frac{\\text{Standard Deviation}}{\\text{Mean}} \\times 100\n\\end{align}\n\\]\nExcel Calculation\n\nColumn 1: Mean: =AVERAGE(range)\nColumn 2: Standard Deviation: =STDEV.S(range)\nColumn 3: CV: =(STDEV/MEAN)*100\n\n\n10:55–11:00 explain statistical methods"
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#expected-results",
+    "href": "10_language-change/10_language-change.html#expected-results",
+    "title": "Language Change",
+    "section": "Expected Results",
+    "text": "Expected Results\nFrequency Changes Over Time\nFor individual modals\n\nFrequency changes for may and would."
+  },
+  {
+    "objectID": "10_language-change/10_language-change.html#study-questions",
+    "href": "10_language-change/10_language-change.html#study-questions",
+    "title": "Language Change",
+    "section": "Study questions",
+    "text": "Study questions\n\nWhich modal verbs show the strongest frequency changes?\n\nAre there differences between core and peripheral modals?\n\nWhich modals show the highest text type variation?\n\nAre there differences between core and peripheral modals?\n\nHow do frequency changes relate to text type preferences?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Course",
+    "section": "",
+    "text": "Course Title: Corpus Linguistics\nCourse Code: CorpLing251\nSemester: 2025-1 HS (Summer Semester)\nInstitution: Ludwig-Maximilians-Universität München (LMU Munich)\nDepartment: English and American Studies"
+  },
+  {
+    "objectID": "about.html#course-information",
+    "href": "about.html#course-information",
+    "title": "About This Course",
+    "section": "",
+    "text": "Course Title: Corpus Linguistics\nCourse Code: CorpLing251\nSemester: 2025-1 HS (Summer Semester)\nInstitution: Ludwig-Maximilians-Universität München (LMU Munich)\nDepartment: English and American Studies"
+  },
+  {
+    "objectID": "about.html#instructor",
+    "href": "about.html#instructor",
+    "title": "About This Course",
+    "section": "Instructor",
+    "text": "Instructor\nDr. Quirin Würschinger\nDepartment of English and American Studies\nLMU Munich"
+  },
+  {
+    "objectID": "about.html#course-description",
+    "href": "about.html#course-description",
+    "title": "About This Course",
+    "section": "Course Description",
+    "text": "Course Description\nThis advanced seminar in corpus linguistics provides students with comprehensive training in empirical language research methodologies. The course combines theoretical foundations with extensive hands-on practice using state-of-the-art corpus tools and databases.\n\nPrerequisites\n\nBasic knowledge of linguistics and linguistic analysis\nFamiliarity with English grammar and morphology\nInterest in quantitative approaches to language study\n\n\n\nCourse Structure\nThe seminar meets weekly for 90-minute sessions combining:\n\nTheoretical input: Current research and methodological foundations\nPractical training: Hands-on work with Sketch Engine and corpus databases\nGroup discussions: Analysis of research papers and case studies\nIndividual projects: Independent research development"
+  },
+  {
+    "objectID": "about.html#learning-outcomes",
+    "href": "about.html#learning-outcomes",
+    "title": "About This Course",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nUpon successful completion of this course, students will:\n\nMaster corpus methodologies: Apply frequency analysis, collocational studies, and distributional semantics\nUse professional tools: Operate Sketch Engine for advanced corpus analysis\nUnderstand variation: Analyse linguistic patterns across social groups, registers, and historical periods\nConduct research: Design and execute independent corpus-based investigations\nInterpret results: Apply statistical thinking to linguistic data analysis\nCommunicate findings: Present research clearly in academic formats"
+  },
+  {
+    "objectID": "about.html#assessment-methods",
+    "href": "about.html#assessment-methods",
+    "title": "About This Course",
+    "section": "Assessment Methods",
+    "text": "Assessment Methods\n\nTerm Paper (80%)\n\nOriginal corpus-based research project (4,000-5,000 words)\nTopics chosen in consultation with instructor\nEmphasis on methodological rigour and novel insights\nDue at end of semester\n\n\n\nParticipation (20%)\n\nActive engagement in seminar discussions\nCompletion of weekly exercises and assignments\nPeer feedback and collaborative learning"
+  },
+  {
+    "objectID": "about.html#technology-requirements",
+    "href": "about.html#technology-requirements",
+    "title": "About This Course",
+    "section": "Technology Requirements",
+    "text": "Technology Requirements\n\nAccess to Sketch Engine (educational accounts provided)\nBasic familiarity with spreadsheet software (Excel, Google Sheets)\nStable internet connection for corpus access"
+  },
+  {
+    "objectID": "about.html#academic-integrity",
+    "href": "about.html#academic-integrity",
+    "title": "About This Course",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nAll work submitted must be original and properly cited. Collaboration is encouraged in learning contexts but individual assessment must reflect personal understanding and analysis."
+  },
+  {
+    "objectID": "about.html#support-and-resources",
+    "href": "about.html#support-and-resources",
+    "title": "About This Course",
+    "section": "Support and Resources",
+    "text": "Support and Resources\n\nOffice hours: Available by appointment\nTechnical support: Sketch Engine documentation and tutorials\nResearch guidance: Individual consultations for term paper development\nPeer learning: Study groups and discussion forums\n\n\nFor current students: Please refer to the official course syllabus and LMU systems for authoritative information about deadlines, requirements, and policies."
+  }
+]

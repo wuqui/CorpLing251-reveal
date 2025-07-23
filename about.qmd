@@ -1,0 +1,81 @@
+---
+title: "About This Course"
+---
+
+## Course Information
+
+**Course Title**: Corpus Linguistics  
+**Course Code**: CorpLing251  
+**Semester**: 2025-1 HS (Summer Semester)  
+**Institution**: Ludwig-Maximilians-Universität München (LMU Munich)  
+**Department**: English and American Studies  
+
+## Instructor
+
+**Dr. Quirin Würschinger**  
+Department of English and American Studies  
+LMU Munich
+
+## Course Description
+
+This advanced seminar in corpus linguistics provides students with comprehensive training in empirical language research methodologies. The course combines theoretical foundations with extensive hands-on practice using state-of-the-art corpus tools and databases.
+
+### Prerequisites
+
+- Basic knowledge of linguistics and linguistic analysis
+- Familiarity with English grammar and morphology
+- Interest in quantitative approaches to language study
+
+### Course Structure
+
+The seminar meets weekly for 90-minute sessions combining:
+
+- **Theoretical input**: Current research and methodological foundations
+- **Practical training**: Hands-on work with Sketch Engine and corpus databases
+- **Group discussions**: Analysis of research papers and case studies
+- **Individual projects**: Independent research development
+
+## Learning Outcomes
+
+Upon successful completion of this course, students will:
+
+1. **Master corpus methodologies**: Apply frequency analysis, collocational studies, and distributional semantics
+2. **Use professional tools**: Operate Sketch Engine for advanced corpus analysis
+3. **Understand variation**: Analyse linguistic patterns across social groups, registers, and historical periods
+4. **Conduct research**: Design and execute independent corpus-based investigations
+5. **Interpret results**: Apply statistical thinking to linguistic data analysis
+6. **Communicate findings**: Present research clearly in academic formats
+
+## Assessment Methods
+
+### Term Paper (80%)
+- Original corpus-based research project (4,000-5,000 words)
+- Topics chosen in consultation with instructor
+- Emphasis on methodological rigour and novel insights
+- Due at end of semester
+
+### Participation (20%)
+- Active engagement in seminar discussions
+- Completion of weekly exercises and assignments
+- Peer feedback and collaborative learning
+
+## Technology Requirements
+
+- Access to [Sketch Engine](https://www.sketchengine.eu/) (educational accounts provided)
+- Basic familiarity with spreadsheet software (Excel, Google Sheets)
+- Stable internet connection for corpus access
+
+## Academic Integrity
+
+All work submitted must be original and properly cited. Collaboration is encouraged in learning contexts but individual assessment must reflect personal understanding and analysis.
+
+## Support and Resources
+
+- **Office hours**: Available by appointment
+- **Technical support**: Sketch Engine documentation and tutorials
+- **Research guidance**: Individual consultations for term paper development
+- **Peer learning**: Study groups and discussion forums
+
+---
+
+*For current students: Please refer to the official course syllabus and LMU systems for authoritative information about deadlines, requirements, and policies.* 

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "07_syntax/07_syntax.qmd"
+    - "08_research-projects/08_research-projects.qmd"
+    - "09_linguistic-variation/09_linguistic-variation.qmd"
+    - "10_language-change/10_language-change.qmd"
+    - "11_wrap-up/11_wrap-up.qmd"
+
+website:
+  title: "Corpus Linguistics Seminar (CorpLing251)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Sessions"
+        menu:
+          - text: "07 – Syntax"
+            href: 07_syntax/07_syntax.html
+          - text: "08 – Research Projects"
+            href: 08_research-projects/08_research-projects.html
+          - text: "09 – Linguistic Variation"
+            href: 09_linguistic-variation/09_linguistic-variation.html
+          - text: "10 – Language Change"
+            href: 10_language-change/10_language-change.html
+          - text: "11 – Wrap-up"
+            href: 11_wrap-up/11_wrap-up.html
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

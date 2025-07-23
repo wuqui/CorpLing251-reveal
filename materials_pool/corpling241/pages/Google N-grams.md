@@ -1,2 +1,0 @@
-- large [[historical]] [[diachronic]] [[corpus]] by [[Google]]
-- mostly based on [[books]]

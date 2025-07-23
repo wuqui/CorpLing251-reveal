@@ -1,3 +1,0 @@
-- full corpus title in [[Sketch Engine]]:`British National Corpus 2014 (BNC2014, spoken part)`
-- [[corpus]] of [[PDE]]
-- [[spoken language]]

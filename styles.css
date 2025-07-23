@@ -1,0 +1,150 @@
+/* Custom styles for Corpus Linguistics course website */
+
+/* Main navigation */
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* Course session links */
+.session-link {
+  padding: 0.5rem 1rem;
+  margin: 0.25rem 0;
+  border-left: 3px solid #007bff;
+  background-color: #f8f9fa;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.session-link:hover {
+  background-color: #e9ecef;
+  border-left-color: #0056b3;
+}
+
+/* Session descriptions */
+.session-description {
+  font-size: 0.9rem;
+  color: #6c757d;
+  margin-top: 0.25rem;
+}
+
+/* Code blocks and inline code */
+code {
+  background-color: #f1f3f4;
+  padding: 0.1rem 0.3rem;
+  border-radius: 0.25rem;
+  font-size: 0.9em;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Tables */
+.table {
+  font-size: 0.9rem;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  border-top: none;
+  font-weight: 600;
+}
+
+/* Figures and images */
+.figure {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.figure-caption {
+  font-size: 0.9rem;
+  color: #6c757d;
+  margin-top: 0.5rem;
+}
+
+/* Sidebar styling */
+.sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #dee2e6;
+}
+
+.sidebar .nav-link {
+  color: #495057;
+  padding: 0.5rem 1rem;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #f8f9fa;
+  color: #007bff;
+}
+
+.sidebar .nav-link.active {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Content area */
+.content {
+  padding: 2rem;
+}
+
+/* Learning objectives and lists */
+.learning-objectives {
+  background-color: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 0.25rem;
+}
+
+.learning-objectives h3 {
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+/* Assessment info */
+.assessment-info {
+  background-color: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+/* Contact information */
+.contact-info {
+  background-color: #d1ecf1;
+  border: 1px solid #bee5eb;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+/* Footer */
+.footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  padding: 2rem 0;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .content {
+    padding: 1rem;
+  }
+  
+  .session-link {
+    margin: 0.5rem 0;
+  }
+} 
