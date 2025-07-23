@@ -1,3 +1,4 @@
+# Quarto website deployment to GitHub Pages
 on:
   workflow_dispatch:
   push:
