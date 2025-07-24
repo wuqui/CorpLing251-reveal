@@ -1,0 +1,159 @@
+---
+title: "Lexis, innovation, diffusion, and frequency"
+---
+
+# Lexis and lexical innovation
+
+## Lexical innovation and diffusion
+
+- Society continually changes as new practices and products emerge (e.g. smartphones)
+- These changes typically first manifest themselves in language on the level of lexis in the form of neologisms (e.g. the words *smartphone* or *iphone*).
+
+- Which recent neologisms can you think of?
+	- *to google*
+	- *staycation*, *baecation* 
+	- *medfluencer* 
+	- *byelingual* 
+	- *glamping* 
+	- *hangry* 
+	- *influencer* 
+	- *gender pay gap* 
+	- *kindergarchy* 
+	- *cringe*
+	- *social distancing*, *frontline worker*   
+	- *millenium bug*
+	- *to furlough*, *dotard*   
+- patterns
+	- motivations
+		- communicative need
+		- describe a feeling/phenomenon
+		- one-off
+		- appeal
+	- forms
+		- blending
+
+- Knowledge of words is conventional: speakers learn form-meaning pairings.
+
+- Model of the Linguistic Sign (de Saussure 1916)
+	- ![[att/image_1714689744620_0.png]]
+
+## Theoretical framework
+
+### S-curve model
+
+The S-curve model is relevant to linguistic innovation, diffusion, and language change.
+
+![[att/Kerremans2015_s-curve-model_1682419531277_0.png]]
+
+Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)
+
+### The Entrenchment and Conventionalization Model (Schmid 2015, Schmid 2020)
+
+- The more frequently a word is used, the more likely it is
+	- that speakers have stored it in their mental lexicon (entrenchment) and
+	- that it is part of the conventional language system (conventionalization).
+
+- Usage, entrenchment, and conventionalization are interconnected.
+	- ![](att/image_1682419412486_0.png)
+        (p. 4)
+
+### Operationalization
+
+Frequency as an indicator for entrenchment and conventionality (Stefanowitsch and Flach 2017).
+
+- **corpus-as-input:** language used in corpora represents potential exposure to speakers
+- **corpus-as-output:** language used by speakers in corpora represents potential degrees of entrenchment
+
+### Pathways of diffusion
+
+- types of linguistic variation and diffusion
+    - ![](att/image_1683027250792_0.png)
+
+- dimensions of diffusion
+    - across speakers and communities
+    - across text types
+
+- examples for different degrees of diffusion
+    - ![](att/image_1683026241397_0.png)
+
+# Empirical analyses of diffusion based on frequency
+
+Würschinger, Quirin. 2021. 'Social Networks of Lexical Innovation. Investigating the Social Dynamics of Diffusion of Neologisms on Twitter'. Frontiers in Artificial Intelligence 4:106. https://doi.org/10.3389/frai.2021.648583.
+
+## Total frequency
+
+- frequency distribution
+    - most frequent
+        - ![](att/image_1683026504246_0.png)
+    - median
+        - ![](att/image_1683026540022_0.png)
+    - least frequent
+        - ![](att/image_1683026561436_0.png)
+
+## Cumulative frequency
+
+![](att/Pasted-image-20250515085146.png)
+
+## Temporal dynamics of use
+
+![](att/Pasted-image-20250515085249.png)
+
+## Volatility
+
+![](att/Pasted-image-20250515085407.png)
+
+## Social dynamics of diffusion
+
+![](att/Pasted-image-20250515085520.png)
+
+# Investigating frequency using Sketch Engine
+
+## Frequency over time
+
+- using the English Trends (2014–today) corpus
+    - example: *blockchain*
+        - timeline view
+            - ![](att/image_1714690450446_0.png)
+        - frequency view
+            - ![](att/image_1714692577767_0.png)
+            - ![](att/image_1714692620762_0.png)
+
+## Frequency across text types
+
+- using the enTenTen21 corpus
+    - example: *alt-right*
+        - distribution across `Topic` text type
+            - ![](att/image_1714692509156_0.png)
+
+## Practice: Lexical innovation
+
+Use the above case study words:
+
+- *upskill*
+- *hyperlocal*
+- *solopreneur*
+- *alt-right*
+- *alt-left*
+- *poppygate*
+
+### Tasks
+
+1. In the English Trends (2014–today) corpus:
+    - determine total frequency for each word
+        - example for *alt-right*:
+            - query: `[lemma="alt-right"]`
+            - absolute total frequency: `95,094`
+            - relative total frequency: `0.96` per million words/tokens (pmw)
+    - identify the year of highest usage
+        - sort by year
+        - use `Frequency` (raw) and `Relative in text type` (per million words)
+
+2. In the enTenTen21 corpus:
+    - determine in which `Genre` each word was used most frequently
+        - example for *alt-right*:
+            - ![](att/image_1683623788788_0.png)
+
+3. Compare results:
+    - Which words show highest/lowest degrees of conventionality?
+    - For which words is there a discrepancy to the results on Twitter?
+        - ![](att/image_1683026579868_0.png)

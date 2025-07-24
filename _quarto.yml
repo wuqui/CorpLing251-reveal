@@ -2,11 +2,6 @@ project:
   type: website
   render:
     - "*.qmd"
-    - "07_syntax/07_syntax.qmd"
-    - "08_research-projects/08_research-projects.qmd"
-    - "09_linguistic-variation/09_linguistic-variation.qmd"
-    - "10_language-change/10_language-change.qmd"
-    - "11_wrap-up/11_wrap-up.qmd"
 
 website:
   title: "Corpus Linguistics"
@@ -16,6 +11,18 @@ website:
         text: Home
       - text: "Sessions"
         menu:
+          - text: "01 – Orga & Intro"
+            href: 01_organisation-and-introduction.html
+          - text: "02 – Sketch Engine"
+            href: 02_sketch-engine-concordancing-frequency.html
+          - text: "03 – Lexis Innovation & Diffusion"
+            href: 03_lexis-innovation-diffusion-frequency.html
+          - text: "04 – Morphology & Word Formation"
+            href: 04_morphology-and-word-formation.html
+          - text: "05 – Creating Corpora"
+            href: 05_creating-corpora-principles-practice.html
+          - text: "06 – Creating Corpora"
+            href: 06_creating-corpora-principles-practice.html
           - text: "07 – Syntax"
             href: 07_syntax/07_syntax.html
           - text: "08 – Research Projects"

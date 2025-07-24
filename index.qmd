@@ -6,6 +6,23 @@ date: today
 
 This website contains all materials for the **Corpus Linguistics** seminar taught at LMU Munich during the 2025 summer semester.
 
+# Course schedule
+
+| Date   | Topic |
+| ------ | ----- |
+| 24.04. | [Organisation and introduction](01_organisation-and-introduction.qmd) |
+| 08.05. | [Sketch Engine](02_sketch-engine-concordancing-frequency.qmd) |
+| 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.qmd) |
+| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.qmd) |
+| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.qmd) |
+| 12.06. | [Creating corpora: principles, practice](06_creating-corpora-principles-practice.qmd) |
+| 26.06. | [Syntax: constructions, frequency analysis, CQL](07_syntax/07_syntax.qmd) |
+| 03.07. | [Research projects and term papers: planning & resources](08_research-projects/08_research-projects.qmd) |
+| 10.07. | [Linguistic variation: tag questions (Tottie 2006)](09_linguistic-variation/09_linguistic-variation.qmd) |
+| 17.07. | [Language change: modal verbs (Hilpert 2015)](10_language-change/10_language-change.qmd) |
+| 24.07. | [Language change and wrap-up](11_wrap-up/11_wrap-up.qmd) |
+
+
 # Course Overview
 
 Corpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.
@@ -75,7 +92,7 @@ Throughout the course, you'll master:
 # Contact
 
 **Instructor**: Quirin Würschinger  
-**Email**: Contact via LMU systems  
+**Email**: [quirin.wuerschinger@lmu.de](mailto:quirin.wuerschinger@lmu.de)  
 **Office hours**: By appointment
 
 ---
