@@ -44,7 +44,7 @@ bibliography: references.bib
 - Feedback collection: 15 min
 :::
 
-- Last week’s exercises
+- Last week's exercises
 - Course recap of previous sessions
 - Key concepts synthesis
 - Methods & tools consolidation  
@@ -54,7 +54,7 @@ bibliography: references.bib
 
 # A Recap of what we've done
 
-## Sessions 01-06: Foundations & Core Methods
+## Sessions 01-06: Foundations & Core Methods {.small}
 
 ::: {.notes}
 10:50–10:55 (5 min) - Recap foundational sessions
@@ -62,7 +62,8 @@ bibliography: references.bib
 
 **Building the foundation**
 
-. . .
+::: {.columns}
+::: {.column width="60%"}
 
 1. Organisation & introduction to corpus linguistics
 2. Sketch Engine skills (concordancing, frequency)
@@ -71,9 +72,17 @@ bibliography: references.bib
 5. Meaning analysis, collocations, word sketches (*clipping* study, @Hilpert2023Meaning)
 6. Creating corpora (principles & practice)
 
-. . .
-
 → **Core skills acquired**: corpus search, frequency analysis, morphological investigation, corpus design
+
+:::
+::: {.column width="40%"}
+
+![Basic concordancing skills](../07_syntax/att/concordance-view.png){width="100%"}
+
+![Frequency analysis foundations](../07_syntax/att/frequency-analysis.png){width="100%"}
+
+:::
+:::
 
 ## Sessions 07-10: Advanced Applications
 
@@ -83,16 +92,35 @@ bibliography: references.bib
 
 **From methods to research**
 
-. . .
+::: {.columns}
+::: {.column width="50%"}
 
 7. Syntax analysis (constructions, CQL, entrenchment research)
 8. Research project planning & term paper methodology  
 9. Linguistic variation (tag questions, social factors)
 10. Language change (modal verbs, diachronic analysis)
 
-. . .
-
 → **Research skills developed**: syntactic investigation, sociolinguistic analysis, historical corpus research, project design
+
+:::
+::: {.column width="50%"}
+
+![Construction Grammar analysis](../07_syntax/att/construction-grammar.png){width="100%"}
+
+![Tag questions variation study](../09_linguistic-variation/att/tag-questions-canonical_1718893745563_0.png){width="100%"}
+
+:::
+:::
+
+## Language Change: Modal Verbs Over Time
+
+::: {.notes}
+Visual highlight from Session 10 - showing diachronic analysis capabilities
+:::
+
+![Modal verb frequency changes over time](../10_language-change/att/frequency-changes-modal-verbs-over-time.png){width="80%"}
+
+**Session 10**: tracking systematic language change patterns
 
 # Key Concepts Synthesis
 
@@ -120,15 +148,16 @@ bibliography: references.bib
 - **Entrenchment & Conventionalisation** (syntactic patterns, Session 07)
 - **Sociolinguistic variation theory** (tag questions, Session 09)
 
-## Language Levels & Phenomena
+## Language Levels & Phenomena {.small}
 
 ::: {.notes}
 11:05–11:10 (5 min) - Consolidate linguistic levels covered
 :::
 
-**Corpus methods across linguistic levels**
+::: {.columns}
+::: {.column width="60%"}
 
-. . .
+**Corpus methods across linguistic levels**
 
 | Level | Phenomena | Methods | Focus |
 |-------|-----------|---------|--------------|
@@ -137,21 +166,30 @@ bibliography: references.bib
 | **Syntax** | Constructions, CQL patterns | Frequency analysis, entrenchment measures | Usage-based grammar |
 | **Sociolinguistics** | Variation, change | Social factor analysis, diachronic comparison | Language and society |
 
-. . .
-
 → **Corpus linguistics = versatile methodology** across all language levels
+
+:::
+::: {.column width="40%"}
+
+![Morphology vs Word-formation](../att/Schmid2016-morphology-vs-word-formation.png){width="100%"}
+
+*Theoretical framework from Session 04*
+
+:::
+:::
 
 # Methods & Tools
 
-## Technical Skills Acquired
+## Methodological Skills {.small}
 
 ::: {.notes}
 11:10–11:15 (5 min) - Consolidate practical skills
 :::
 
-**Your corpus linguistics toolkit**
+::: {.columns}
+::: {.column width="50%"}
 
-. . .
+**Your corpus linguistics toolkit**
 
 **Search & Analysis:**
 
@@ -160,14 +198,31 @@ bibliography: references.bib
 - **Collocational analysis**: meaning through co-occurrence
 - **Diachronic comparison**: tracking change over time
 
-. . .
-
 **Research Design:**
 
 - **Corpus selection**: appropriate data for research questions
 - **Hypothesis formation**: testable predictions about language use
-- **Statistical interpretation**: frequency patterns and significance
 - **Critical evaluation**: corpus limitations and biases
+
+:::
+::: {.column width="50%"}
+
+![CQL Builder interface](../09_linguistic-variation/att/cql-builder.png){width="100%"}
+
+*Advanced search capabilities*
+
+:::
+:::
+
+## Corpus Resources & Data Access
+
+::: {.notes}
+Visual highlight showing the range of corpora explored
+:::
+
+![English corpora overview](../10_language-change/att/english-corpora-overview.png){width="70%"}
+
+**Sessions 06 & 10**: from corpus principles to historical English corpora
 
 ## From Data to Insights
 
@@ -175,7 +230,7 @@ bibliography: references.bib
 11:15–11:20 (5 min) - Connect methods to research process
 :::
 
-**The corpus research process you've mastered**
+**The corpus research process**
 
 . . .
 
@@ -242,7 +297,7 @@ bibliography: references.bib
 
 . . .
 
-**Discussion time**: Share your highlights and insights
+**Discussion time**: Share your comments and insights
 
 ## Areas for improvement
 
@@ -250,7 +305,7 @@ bibliography: references.bib
 11:35–11:40 (5 min) - Constructive feedback collection
 :::
 
-**How can we improve?**
+**What could be improved?**
 
 . . .
 
