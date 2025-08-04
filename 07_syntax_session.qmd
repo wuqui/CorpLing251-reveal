@@ -1,0 +1,16 @@
+---
+title: "Syntax – Session 7"
+---
+
+<style>
+.slide-deck {
+  width: 100%;
+  height: 600px;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+}
+</style>
+
+```{=html}
+<iframe class="slide-deck" src="07_syntax/07_slides.html"></iframe>
+```

@@ -64,22 +64,7 @@ Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Languag
 
 ## Course schedule
 
-|  Nr | Date   | Topic                                                                  |
-| --: | ------ | ---------------------------------------------------------------------- |
-|   1 | 24.04. | [Organisation and introduction](01-organisation-and-introduction.md) |
-| --- | 01.05. | ---                                                                    |
-|   2 | 08.05. | [Introduction: Sketch Engine, concordancing, frequency](02-sketch-engine-concordancing-frequency.md) |
-|   3 | 15.05. | Lexis: innovation, diffusion, frequency analysis                       |
-|   4 | 22.05. | Morphology: word formation, frequency analysis                         |
-| --- | 29.05. | ---                                                                    |
-|   5 | 05.06. | Morphology: meaning analysis, collocations, word sketches              |
-|   6 | 12.06. | Creating corpora: principles, practice (Sketch Engine)                 |
-| --- | 19.06. | ---                                                                    |
-|   7 | 26.06. | Syntax: constructions, frequency analysis, CQL                         |
-|   8 | 03.07. | Research projects and term papers: planning & resources                |
-|   9 | 10.07. | Linguistic variation: tag questions (Tottie 2006)                      |
-|  10 | 17.07. | Language change: modal verbs (Hilpert 2015)                            |
-|  11 | 24.07. | Language change: lexical innovation, projects                          |
+{{< include /includes/_schedule.qmd >}}
 
 
 # Survey: experiences and expectations

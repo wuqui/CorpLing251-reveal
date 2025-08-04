@@ -1,0 +1,16 @@
+---
+title: "Language Change – Session 10"
+---
+
+<style>
+.slide-deck {
+  width: 100%;
+  height: 600px;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+}
+</style>
+
+```{=html}
+<iframe class="slide-deck" src="10_language-change/10_language-change.html"></iframe>
+```

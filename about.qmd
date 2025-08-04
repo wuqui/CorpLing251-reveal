@@ -47,14 +47,6 @@ Upon successful completion of this course, students will:
 4. **Conduct research**: Design and execute independent corpus-based investigations
 5. **Interpret results**: Apply data science principles to linguistic data analysis
 
-
-## Support and Resources
-
-- **Office hours**: Available by appointment
-- **Technical support**: Sketch Engine documentation and tutorials
-- **Research guidance**: Individual consultations for term paper development
-- **Peer learning**: Study groups and discussion forums
-
 ---
 
-*For current students: Please refer to the official course syllabus and LMU systems for authoritative information about deadlines, requirements, and policies.* 
+*For current students: Please refer to the official course syllabus and LMU systems for authoritative information about requirements and policies.* 

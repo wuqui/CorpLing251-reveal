@@ -4,28 +4,29 @@ author: "Quirin Würschinger"
 date: today
 ---
 
-This website contains all materials for the **Corpus Linguistics** seminar taught at LMU Munich during the 2025 summer semester.
+This website contains all materials for the **Corpus Linguistics** seminar taught at LMU Munich during the 2025 summer semester.^[This website provides open access to course materials for educational purposes. All content is licensed under Creative Commons where applicable.]
 
 # Course schedule
 
-| Date   | Topic |
-| ------ | ----- |
-| 24.04. | [Organisation and introduction](01_organisation-and-introduction.qmd) |
-| 08.05. | [Sketch Engine](02_sketch-engine-concordancing-frequency.qmd) |
-| 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.qmd) |
-| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.qmd) |
-| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.qmd) |
-| 12.06. | [Creating corpora: principles, practice](06_creating-corpora-principles-practice.qmd) |
-| 26.06. | [Syntax: constructions, frequency analysis, CQL](07_syntax/07_syntax.qmd) |
-| 03.07. | [Research projects and term papers: planning & resources](08_research-projects/08_research-projects.qmd) |
-| 10.07. | [Linguistic variation: tag questions (Tottie 2006)](09_linguistic-variation/09_linguistic-variation.qmd) |
-| 17.07. | [Language change: modal verbs (Hilpert 2015)](10_language-change/10_language-change.qmd) |
-| 24.07. | [Language change and wrap-up](11_wrap-up/11_wrap-up.qmd) |
+{{< include /includes/_schedule.qmd >}}
 
 
-# Course Overview
+# Course description
 
-Corpus linguistics is an empirical approach to studying language that uses large collections of naturally occurring texts (corpora) to investigate linguistic patterns, variation, and change. This seminar provides hands-on experience with corpus methodologies and introduces students to cutting-edge research in the field.
+This course covers theoretical and practical aspects of corpus linguistics, with an emphasis on hands-on learning. Students will examine language use in different domains, studying a range of linguistic concepts from domains such as lexis, morphology, and syntax, and investigate social variation, text type variation, and language change in these areas. The course will use data from different time periods and different genres (e.g. web corpora, academic prose, novels) to give students hands-on experience in analysing data and to cover a wide range of linguistic phenomena.
+
+Throughout the course, students will learn how to use various corpus linguistic methods such as queries, frequency analysis, collocations, and text type analysis. By using tools like Sketch Engine and Excel, students will gain hands-on experience analysing real-world data and gain a deeper understanding of how these methods can be applied in different linguistic contexts. For example, we will analyse differences in the usage of words and constructions over time using the Gutenberg corpus, we will use Sketch Engine to analyse meaning change and variation, and Excel to create frequency tables and charts.
+
+## Core literature
+
+Biber, Douglas, and Randi Reppen, eds. 2015. The Cambridge Handbook of English Corpus Linguistics. Cambridge Handbooks in Language and Linguistics. Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9781139764377.
+
+McEnery, Tony, and Andrew Hardie. 2011. Corpus Linguistics: Method, Theory and Practice. Cambridge Textbooks in Linguistics. Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511981395.
+
+O’Keeffe, Anne, and Michael McCarthy, eds. 2022. The Routledge Handbook of Corpus Linguistics. Second edition. Routledge Handbooks in Applied Linguistics. Abingdon, Oxon ; New York, NY: Routledge.
+
+Stefanowitsch, Anatol. 2020. Corpus Linguistics. Language Science Press. Language Science Press. https://doi.org/10.5281/zenodo.3735822.
+
 
 # Learning Objectives
 
@@ -38,63 +39,10 @@ By the end of this course, you will be able to:
 - Study language change using diachronic corpora
 - Design and conduct independent corpus-based research
 
-# Session Materials
-
-The course covers advanced topics in corpus linguistics through practical applications:
-
-### [Session 07: Syntax Analysis](07_syntax/07_syntax.html)
-- Construction Grammar and corpus evidence
-- Advanced CQL (Corpus Query Language) patterns
-- Entrenchment and conventionalisation
-- Syntactic frequency and usage-based grammar
-
-### [Session 08: Research Projects](08_research-projects/08_research-projects.html)
-- Term paper methodology and planning
-- Research question formulation
-- Corpus selection and design principles
-- Statistical analysis and interpretation
-
-### [Session 09: Linguistic Variation](09_linguistic-variation/09_linguistic-variation.html)
-- Social factors in language use
-- Tag questions and discourse functions
-- Register and text type variation
-- Sociolinguistic corpus analysis
-
-### [Session 10: Language Change](10_language-change/10_language-change.html)
-- Diachronic corpus methods
-- Modal verbs and grammaticalisation
-- S-curve models of language change
-- Historical corpus analysis
-
-### [Session 11: Course Wrap-up](11_wrap-up/11_wrap-up.html)
-- Synthesis of key concepts and methods
-- Research pathways and future directions
-- Course reflection and feedback
-
-# Technical Skills
-
-Throughout the course, you'll master:
-
-- **Sketch Engine**: concordancing, frequency analysis, word sketches
-- **CQL patterns**: advanced corpus querying
-- **Collocational analysis**: meaning through co-occurrence
-- **Diachronic comparison**: tracking language change
-- **Statistical interpretation**: frequency patterns and significance
-
-
-# Resources
-
-- **Primary tool**: [Sketch Engine](https://www.sketchengine.eu/)
-- **Key textbook**: Stefanowitsch (2020) *Corpus Linguistics: A Guide to the Methodology*
-- **Additional readings**: Available through course materials
-
 
 # Contact
 
 **Instructor**: Quirin Würschinger  
-**Email**: [quirin.wuerschinger@lmu.de](mailto:quirin.wuerschinger@lmu.de)  
+**Email**: [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de)  
 **Office hours**: By appointment
-
----
-
-*This website provides open access to course materials for educational purposes. All content is licensed under Creative Commons where applicable.* 
+ 

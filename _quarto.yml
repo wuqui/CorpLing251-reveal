@@ -19,20 +19,20 @@ website:
             href: 03_lexis-innovation-diffusion-frequency.html
           - text: "04 – Morphology & Word Formation"
             href: 04_morphology-and-word-formation.html
-          - text: "05 – Creating Corpora"
-            href: 05_creating-corpora-principles-practice.html
+          - text: "05 – Morphology: Meaning Analysis"
+            href: 05_morphology-and-word-formation-2.html
           - text: "06 – Creating Corpora"
             href: 06_creating-corpora-principles-practice.html
           - text: "07 – Syntax"
-            href: 07_syntax/07_syntax.html
+            href: 07_syntax_session.html
           - text: "08 – Research Projects"
-            href: 08_research-projects/08_research-projects.html
+            href: 08_research-projects_session.html
           - text: "09 – Linguistic Variation"
-            href: 09_linguistic-variation/09_linguistic-variation.html
+            href: 09_linguistic-variation_session.html
           - text: "10 – Language Change"
-            href: 10_language-change/10_language-change.html
+            href: 10_language-change_session.html
           - text: "11 – Wrap-up"
-            href: 11_wrap-up/11_wrap-up.html
+            href: 11_wrap-up_session.html
       - href: about.qmd
         text: About
 
@@ -40,6 +40,3 @@ format:
   html:
     theme: cosmo
     toc: true
-
-
-

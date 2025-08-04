@@ -1,0 +1,13 @@
+| Date   | Topic |
+| ------ | ----- |
+| 24.04. | [Organisation and introduction](01_organisation-and-introduction.qmd) |
+| 08.05. | [Sketch Engine](02_sketch-engine-concordancing-frequency.qmd) |
+| 15.05. | [Lexis: innovation and diffusion](03_lexis-innovation-diffusion-frequency.qmd) |
+| 22.05. | [Morphology and word-formation](04_morphology-and-word-formation.qmd) |
+| 05.06. | [Morphology: meaning analysis, collocations, word sketches](05_morphology-and-word-formation-2.qmd) |
+| 12.06. | [Creating corpora: principles, practice](06_creating-corpora-principles-practice.qmd) |
+| 26.06. | [Syntax: constructions, frequency analysis, CQL](07_syntax_session.qmd) |
+| 03.07. | [Research projects and term papers: planning & resources](08_research-projects_session.qmd) |
+| 10.07. | [Linguistic variation: tag questions (Tottie 2006)](09_linguistic-variation_session.qmd) |
+| 17.07. | [Language change: modal verbs (Hilpert 2015)](10_language-change_session.qmd) |
+| 24.07. | [Language change and wrap-up](11_wrap-up_session.qmd) |

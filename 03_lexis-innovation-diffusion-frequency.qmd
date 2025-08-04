@@ -35,7 +35,8 @@ title: "Lexis, innovation, diffusion, and frequency"
 - Knowledge of words is conventional: speakers learn form-meaning pairings.
 
 - Model of the Linguistic Sign (de Saussure 1916)
-	- ![[att/image_1714689744620_0.png]]
+
+![](att/image_1714689744620_0.png)
 
 ## Theoretical framework
 
@@ -43,7 +44,7 @@ title: "Lexis, innovation, diffusion, and frequency"
 
 The S-curve model is relevant to linguistic innovation, diffusion, and language change.
 
-![[att/Kerremans2015_s-curve-model_1682419531277_0.png]]
+![](att/Kerremans2015_s-curve-model_1682419531277_0.png)
 
 Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (Kerremans 2015: p. 65)
 
@@ -54,8 +55,10 @@ Integration of Milroy's and Rogers' model of diffusion stages into an S-curve. (
 	- that it is part of the conventional language system (conventionalization).
 
 - Usage, entrenchment, and conventionalization are interconnected.
-	- ![](att/image_1682419412486_0.png)
-        (p. 4)
+
+![](att/image_1682419412486_0.png)
+
+(p. 4)
 
 ### Operationalization
 
@@ -67,14 +70,16 @@ Frequency as an indicator for entrenchment and conventionality (Stefanowitsch an
 ### Pathways of diffusion
 
 - types of linguistic variation and diffusion
-    - ![](att/image_1683027250792_0.png)
+
+![](att/image_1683027250792_0.png)
 
 - dimensions of diffusion
     - across speakers and communities
     - across text types
 
 - examples for different degrees of diffusion
-    - ![](att/image_1683026241397_0.png)
+
+![](att/image_1683026241397_0.png)
 
 # Empirical analyses of diffusion based on frequency
 
@@ -82,13 +87,17 @@ Würschinger, Quirin. 2021. 'Social Networks of Lexical Innovation. Investigatin
 
 ## Total frequency
 
-- frequency distribution
-    - most frequent
-        - ![](att/image_1683026504246_0.png)
-    - median
-        - ![](att/image_1683026540022_0.png)
-    - least frequent
-        - ![](att/image_1683026561436_0.png)
+### Most frequent
+
+![](att/image_1683026504246_0.png)
+
+### Median
+
+![](att/image_1683026540022_0.png)
+
+### Least frequent 
+
+![](att/image_1683026561436_0.png)
 
 ## Cumulative frequency
 
@@ -110,20 +119,23 @@ Würschinger, Quirin. 2021. 'Social Networks of Lexical Innovation. Investigatin
 
 ## Frequency over time
 
-- using the English Trends (2014–today) corpus
-    - example: *blockchain*
-        - timeline view
-            - ![](att/image_1714690450446_0.png)
-        - frequency view
-            - ![](att/image_1714692577767_0.png)
-            - ![](att/image_1714692620762_0.png)
+Using the English Trends (2014–today) corpus; example: *blockchain*
+
+### Timeline view
+
+![](att/image_1714690450446_0.png)
+
+### Frequency view
+
+![](att/image_1714692577767_0.png)
+
+![](att/image_1714692620762_0.png)
 
 ## Frequency across text types
 
-- using the enTenTen21 corpus
-    - example: *alt-right*
-        - distribution across `Topic` text type
-            - ![](att/image_1714692509156_0.png)
+Using the enTenTen21 corpus; example: *alt-right*
+
+![Distribution across `Topic` text type](att/image_1714692509156_0.png)
 
 ## Practice: Lexical innovation
 
